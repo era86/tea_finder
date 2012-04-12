@@ -1,0 +1,74 @@
+[
+    {
+        "pk": "WELLNESS", 
+        "model": "tea.category", 
+        "fields": {
+            "name": "Wellness", 
+            "description": "Organic wellness teas are custom crafted formulations designed by RemedyTeas to provide functional benefits and taste divine. We\u2019ve created&hellip;"
+        }
+    }, 
+    {
+        "pk": "ROOIBOS", 
+        "model": "tea.category", 
+        "fields": {
+            "name": "Rooibos", 
+            "description": "Organic rooibos is a rich and incredible herbal botanical from South Africa. It is loaded with vitamins, minerals and antioxidants like green&hellip;"
+        }
+    }, 
+    {
+        "pk": "GREEN", 
+        "model": "tea.category", 
+        "fields": {
+            "name": "Green", 
+            "description": "Organic green teas are all the rage for a good reason. They are fresh flavored and fortifying, antioxidant and nutrient rich with green tea&hellip;"
+        }
+    }, 
+    {
+        "pk": "OOLONG", 
+        "model": "tea.category", 
+        "fields": {
+            "name": "Oolong", 
+            "description": "Organic oolong teas are celebrated for having unique characteristics between a green and black tea. Ranging in flavor they are fruity,&hellip;"
+        }
+    }, 
+    {
+        "pk": "PUERH", 
+        "model": "tea.category", 
+        "fields": {
+            "name": "Puerh", 
+            "description": "Organic Pu-erh teas are rare teas with rich history and a unique taste. They are loaded with healthful nutrients and are known for their time&hellip;"
+        }
+    }, 
+    {
+        "pk": "HERBAL", 
+        "model": "tea.category", 
+        "fields": {
+            "name": "Herbal", 
+            "description": "Organic herbal teas are botanicals blended to deliver delicious, fortifying tastes, a bounty of benefits and an abundance of beauty, color&hellip;"
+        }
+    }, 
+    {
+        "pk": "BLACK", 
+        "model": "tea.category", 
+        "fields": {
+            "name": "Black", 
+            "description": "Organic black teas are full bodied dark teas rich in antioxidants with a full range of flavor. Malty to fruity, smooth to bold, they&hellip;"
+        }
+    }, 
+    {
+        "pk": "WHITE", 
+        "model": "tea.category", 
+        "fields": {
+            "name": "White", 
+            "description": "Organic white teas are new on the u.s. scene but these old school teas are rare, subtle and sublimely rich with vitamins, minerals and&hellip;"
+        }
+    }, 
+    {
+        "pk": "YERBA", 
+        "model": "tea.category", 
+        "fields": {
+            "name": "Yerba", 
+            "description": "Organic Yerba Mate is an invigorating drink from South America that we lovingly call the espresso of herbal teas. Every stimulating,&hellip;"
+        }
+    }
+]

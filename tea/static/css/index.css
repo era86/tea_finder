@@ -1,0 +1,71 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: small;
+    padding: 20px;
+}
+
+.wrapper {
+    width: 1300px;
+}
+
+/* Tea Table */
+.tea-table-cont {
+    display: inline-block;
+    overflow-y: scroll;
+    height: 600px;
+}
+
+#tea-table tr td {
+    font-size: small;
+    padding: 5px;
+}
+
+.tea-selected {
+    background-color: #CCFFCC;
+}
+
+#tea-table tr {
+    cursor: pointer;
+}
+/* end Tea Table */
+
+/* Filter */
+.filter-cont {
+    margin: 0px 20px 10px 0px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.checkbox-cont {
+    margin: 20px 0px 20px 0px;
+}
+/* end Filter */
+
+/* Info */
+.tea-info-cont {
+    display: inline-block;
+    vertical-align: top;
+    width: 500px;
+}
+
+.tea-num {
+    font-size: xx-large;
+    color: #339900;
+}
+
+.tea-name {
+    font-size: xx-large;
+    color: #339900;
+    float: right;
+}
+
+.tea-caffeine, .tea-category {
+    font-size: large;
+}
+
+.tea-desc {
+    display: block;
+    margin-top: 20px;
+    font-size: ;
+}
+/* end Info */

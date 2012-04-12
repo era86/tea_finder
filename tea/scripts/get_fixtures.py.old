@@ -1,0 +1,79 @@
+#!/usr/bin/python
+'''
+Get the initial Django fixtures for all of the tables defined in the Models.
+'''
+
+__author__ = 'Frederick Ancheta'
+__version__ = '0.1.0'
+
+from teautil import *
+
+tearows = get_teas()
+
+categories = {}
+pk = 0
+for tea in tearows:
+    categoryName = tea['category']
+    if categoryName not in categories:
+        categories[categoryName] = {'name':categoryName, 'pk':pk,\
+                                    'description':''}
+        pk += 1
+
+categoryFile = open('Category.json', 'w')
+categoryFile.write(create_json('Category', categories.values()))
+categoryFile.close()
+
+caffeines = {}
+pk = 0
+for tea in tearows:
+    caffeineName = tea['caffeine']
+    if caffeineName not in caffeines:
+        caffeines[caffeineName] = {'name':caffeineName, 'pk':pk,\
+                                   'description':''}
+        pk += 1
+
+caffeinesFile = open('Caffeine.json', 'w')
+caffeinesFile.write(create_json('Caffeine', caffeines.values()))
+caffeinesFile.close()
+
+tags = {}
+pk = 0
+for tea in tearows:
+    for tagName in tea['tags']:
+        if tagName not in tags:
+            tags[tagName] = {'name':tagName, 'pk':pk}
+            pk += 1
+
+tagsFile = open('Tag.json', 'w')
+tagsFile.write(create_json('Tag', tags.values()))
+tagsFile.close()
+
+teas = []
+teaTags = []
+teaId = 0
+teaTagId = 0
+for tea in tearows:
+    teaName = tea['name']
+    categoryName = tea['category']
+    caffeineName = tea['caffeine']
+
+    category = categories[categoryName]['pk']
+    caffeine = caffeines[caffeineName]['pk']
+
+    teas.append({'name':teaName, 'category':category, 'caffeine':caffeine,\
+            'description':'', 'pk':teaId})
+
+    for tagName in tea['tags']:
+        tag = tags[tagName]['pk']
+        teaTags.append({'pk':teaTagId, 'tea':teaId, 'tag':tag})
+        teaTagId += 1
+
+    teaId += 1
+
+teasFile = open('Tea.json', 'w')
+teasFile.write(create_json('Tea', teas))
+teasFile.close()
+
+teaTagsFile = open('TeaTag.json', 'w')
+teaTagsFile.write(create_json('TeaTag', teaTags))
+teaTagsFile.close()

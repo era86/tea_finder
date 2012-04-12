@@ -1,0 +1,75 @@
+{% load raw_tag %}
+<html>
+    <head>
+        <title>Tea Finder</title>
+        <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/index.css"/>
+
+        <script type="text/javascript" src="{{ STATIC_URL }}lib/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}lib/jquery.tmpl.min.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}js/index.js"></script>
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class="filter-cont">
+                <input class="filter-query" type="text" placeholder="Search..." />
+                <div class="checkbox-cont">
+                    {% for c in categories %}
+                    <label>
+                        <input type="checkbox" name="category" value="{{ c.id }}" />
+                        {{ c.name }}
+                    </label>
+                    <br/>
+                    {% endfor %}
+                </div>
+                <div class="checkbox-cont">
+                    {% for c in caffeines %}
+                    <label>
+                        <input type="checkbox" name="caffeine" value="{{ c.id }}" />
+                        {{ c.name }}
+                    </label>
+                    <br/>
+                    {% endfor %}
+                </div>
+                <select>
+                    {% for t in tags %}
+                    <option value="{{ t }}">{{ t }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="tea-table-cont">
+                <table id="tea-table">
+                </table>        
+                <script id="tea-row-tmpl" type="text/x-jquery-tmpl">
+                    <tr id="${id}">
+                        <td>${id}</td>
+                        <td>${name}</td>
+                        <td>${partDesc} ... </td>
+                    </tr>
+                </script>
+            </div>
+            <div class="tea-info-cont">
+            </div>
+            <script id="tea-info-tmpl" type="text/x-jquery-tmpl">
+                <div class="tea-info">
+                    <span class="tea-num">${id}</span>
+                    <span class="tea-name">${name}</span>
+                    <br/>
+                    <span class="tea-category">${category}</span>
+                    <br/>
+                    <span class="tea-caffeine">${caffeine}</span>
+                    <br/>
+                    <span class="tea-desc">${desc}</span>
+                    <br/>
+                    <ul>
+                        {% raw %}
+                        {{ tmpl(tags) "#tea-tag-tmpl" }}
+                        {% endraw %}
+                    </ul>
+                </div>
+            </script>
+            <script id="tea-tag-tmpl" type="text/x-jquery-tmpl">
+                <li>${tag}</li>
+            </script>
+        </div>
+    </body>
+</html>

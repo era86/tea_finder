@@ -1,0 +1,1442 @@
+[
+    {
+        "pk": 1, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "LOW", 
+            "name": "Super Antiox", 
+            "description": "Enjoy refreshing pomegranate-blueberry white tea taste while kicking butt of free radicals and pollutants. This antiox-rich tea is a blend of premium white teas, pomegranate, blueberry, sage and astralgulus\u2014a powerful immune system booster."
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "MEDIUM", 
+            "name": "Green Energy", 
+            "description": "A dynamite tea that delivers a citrus-fresh, stimulating cup with serious horsepower. Sweet, lightly citrus flavored, mellow yet invigorating blend of green tea,\u00a0goji berries, ashwagandha\u00a0\"Indian Ginseng\", chinese ginseng, licorice root and citrus."
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "NONE", 
+            "name": "Deep Sleep", 
+            "description": "This potent mix of herbs is bound to help send you to la-la land while tasting like a dream. Chamomile, rosehips, lavender, pink peppercorn, valerian, honeybush and kava kava is blended to be potent, complex and deeply delicious. Nighty night."
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "NONE", 
+            "name": "Beauty", 
+            "description": "Keep that schoolkid glow with a tea designed to enhance and protect the beauty in you. Tulsi herb said to improve resistance to toxins and pollutants, is blended with peppermint, ginger, and rosemary providing essential nutrients and tingly fresh taste."
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "MEDIUM", 
+            "name": "Mentalitea", 
+            "description": "Help clear the cobwebs with a tea designed to perk up your peepers. China meets India traditions in this slightly sweet and savory blend of green tea, ginkgo, ginseng, coriander, fennel and licorice to provide a refreshing cup with a cool mental kick."
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "NONE", 
+            "name": "Relief", 
+            "description": "Colds and allergies suck. Your tea doesn\u2019t have to with tea blended to make your symptoms more bearable. Lemongrass, rosehips, ginger, citrus, licorice root, sage, peppermint and cloves for a shot of vitamin C and a blast of deep mentholated relief."
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "NONE", 
+            "name": "Digestive", 
+            "description": "Make your belly better with this vanilla mint tea designed for unsettled tummies. A soothing, powerful blend of several\u00a0digestives\u00a0in one, this peppermint, anise, fennel, ginger, licorice, vanilla and calendula is intensely soothing and\u00a0immensely\u00a0delicious."
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "MEDIUM", 
+            "name": "Slim Balance", 
+            "description": "Toasty orange spice soothes with this blend of ingredients said to boost to your metabolism. Oolong tea is known by some as a\u00a0\"slimming\" tea and is mixed with cinnamon, citrus and rosehips\u2014however much it burns those calories, it's darn tasty."
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "NONE", 
+            "name": "Detox", 
+            "description": "Feeling a little gritty? Cleanse with nutrient rich rooibos tea, peppercorn, fennel, coriander, hibiscus, ginger, licorice, schizandra berries, orange peel, milk thistle and basil. Antioxidant rich tea with detoxifying herbs and spices brew sweet\u00a0savory\u00a0taste."
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WELLNESS", 
+            "caffeine": "MEDIUM", 
+            "name": "Hangover", 
+            "description": "Forget the hair of the dog that bit you. Rejuvenate with this blend of yerba mate, mint, ginger, feverfew, dandelion, licorice, orange, cumin, myrrh, barberry and ginseng. Cleansing, settling and invigorating, designed to soothe mind and body."
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "NONE", 
+            "name": "Raspberry Luxe", 
+            "description": "Indulge in white tea leaves infused with delicate aromas and flavors of summer berries kissed with cocoa. Light, fruity,"
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "LOW", 
+            "name": "Blue Hawaii", 
+            "description": "Take a dive into a cup of pure paradise with antioxidant-rich white tea swimming with real organic coconut and vanilla bits. A sinfully good blend of white teas, coconut, natural essences, vanilla pieces and blue cornflowers. It's aloha in your cup."
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "LOW", 
+            "name": "Morning Rain", 
+            "description": "Delight in a mellow cup bearing hints of sliced melon reminiscent of a fresh rain. A special blend of white tea, fresh cantaloupe essence and jasmine brews a refreshing clean cup with fresh flowery melon taste. Hot or over ice, let it rain, let it rain."
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "LOW", 
+            "name": "Love Buds", 
+            "description": "Whether you\u2019re love sick or sick of love, this tea can be your heart\u2019s desire. Soothe and refresh with a luscious blend of flower scented white teas, roses, lavender and peppermint. Floral, fresh, delicate and delightful, it's a white tea that's easy to love."
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "LOW", 
+            "name": "Goji Bloom", 
+            "description": "Find inner peace inside a refreshing, clean cup that has a citrus fresh taste and is as comforting and crisp as summer morning dew. An artful blend of white tea, nutrient rich goji berries, lemon myrtle, and flower blossoms for a delicate citrus taste."
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "LOW", 
+            "name": "Harmony", 
+            "description": "Beautiful, floral and fruitful, this blend is a potpourri of white tea deliciousness. White tea leaves are blended with a bounty of apple and mango fruits, flower blossoms, cinnamon and almonds infusing"
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "LOW", 
+            "name": "Peach n Peony", 
+            "description": "Here\u2019s a tea that\u2019s bound to make life a bit peachier. White peony tea rich with antioxidants and nutty flavor blended with natural peach essences and aromatic blossoms. Light fruity notes with delicate white tea creates a refreshing uplifting cup."
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "LOW", 
+            "name": "White Chai", 
+            "description": "Low-caff antiox-rich white tea blended with classic Indian spices result in a mellow, spiced brew that's subtle and welcoming. White tea, cinnamon, ginger, cardamom, cloves, natural vanilla essences and flower blossoms that's subtle and spiced."
+        }
+    }, 
+    {
+        "pk": 19, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "LOW", 
+            "name": "White Peony", 
+            "description": "Classic \u201cBia Mu Dan\u201d white Peony from China. Antioxidant loaded, this white tea brews a delicate, herbaceous aroma with smooth body and slightly light, nutty taste that's more delicious from one infusion to the next. Low caff and highly delicious."
+        }
+    }, 
+    {
+        "pk": 20, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "WHITE", 
+            "caffeine": "LOW", 
+            "name": "Silver Needle", 
+            "description": "Pure \u201cYin Zhen\u201d Silver Needle white tea from China. Beautiful, subtle, prized tea that produces a light golden cup with woodsy body, savory aroma and delicate honeysuckle sweetness. It's handpicked, hand dried, one of the finest of pure teas."
+        }
+    }, 
+    {
+        "pk": 21, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Green Coconut", 
+            "description": "A little nutty, a little naughty and a lot nice. Get the luscious taste of fresh steamed green tea kissed with exotic coconut. Antioxidant rich good-for-you green tea is steamed maintaining rich nutrients and fresh taste then blended with coconut for a sweet creamy taste and simple soothing cup. Makes seriously good"
+        }
+    }, 
+    {
+        "pk": 22, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Paradise", 
+            "description": "Fresh sencha green tea bursting with sweet tropical taste. Refresh and restore with a lush and intoxicating blend of Japanese green tea, pineapple pieces, natural tropical essences and flowers in a perfectly pleasurable cup. We'll see you in paradise. Makes great"
+        }
+    }, 
+    {
+        "pk": 23, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Orange Krush", 
+            "description": "Creamsicles envy this green tea. Chill out with this perfectly smooth citrusy-vanilla green tea goodness that's simply divine both warm and"
+        }
+    }, 
+    {
+        "pk": 24, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Jasmine Blue", 
+            "description": "If you thought jasmine green tea couldn\u2019t get any better, it just did. Bold jasmine tea infused with flower petals and succulent antiox-rich blueberries. The floral sweetness of jasmine fuses perfectly with fruity blueberry for a fresh, fruity and fragrant taste."
+        }
+    }, 
+    {
+        "pk": 25, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "LOW", 
+            "name": "Roasted La Cr\u00e8me", 
+            "description": "Take a toasty twist on green tea with roasted green tea combined with white chocolate bits creating a toasty, marshmallow-hazelnut flavor. Contains roasted green tea, natural vanilla essences and vanilla white chocolate green tea decadence."
+        }
+    }, 
+    {
+        "pk": 27, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Mo Rockin Mint", 
+            "description": "Classic \"Moroccan Mint\" kicked up a notch with extra bold peppermint freshness in this cooling blend of strong \u201cgunpowder\u201d green tea, peppermint and spearmint leaves. Especially soothing hot and refreshing over ice, this classic combo is done just right."
+        }
+    }, 
+    {
+        "pk": 28, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Strawberry Sunrise", 
+            "description": "Sip summer berries all year long with a blend designed to send your senses to a smooth strawberry nirvana. Steamed green tea with strawberry piece, rosehips, fruit essences and papaya pieces are fused as one for a sexy strawberry sensation."
+        }
+    }, 
+    {
+        "pk": 29, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Mango Mist", 
+            "description": "Get lost in the aromas of robust green tea soaring with soothing sweet mango ginger flavor. Select teas from India and China are blended with spices and fruits designed as amazing iced tea and scrumptious hot. Green tea, mango, ginger root, fennel seed and calendula brew intoxicating aroma and lingering fruity flavor."
+        }
+    }, 
+    {
+        "pk": 30, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Earl Jazz", 
+            "description": "Go green with this fresh take on classic Earl Grey taste. Smooth and light citrus flavor burst from this blend of robust green tea, citrus, jasmine and natural bergamot essence. If you are looking for a twist on a classic taste, you should like this take."
+        }
+    }, 
+    {
+        "pk": 31, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Jasmine Pearl", 
+            "description": "This is an incredible tea with a rich history that dates back over 1000 years. Fragrant jasmine blossoms are gently mixed with the most tender organic green tea leaves with silvery tips. They are hand rolled into small pearls that bloom in your glass."
+        }
+    }, 
+    {
+        "pk": 32, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Green Snail Spring", 
+            "description": "Pure \u201cBi Lo Chun\" from China. Hand-picked and handrolled, this green has the most curious aroma and buttery smooth flavor. For centuries this style of Spring-pick tea has been considered one of China\u2019s famous teas for its unique lightly sweet taste, unusual vegetal character and smooth cup."
+        }
+    }, 
+    {
+        "pk": 33, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Wulu Mountain Mist", 
+            "description": "Pure \u201cWulu\" spring tea from China. Freshly handcrafted grown at high elevations among lush mountain tops and mist. This special grade first-pick tea creates a smooth and wonderfully mellow and butttery cup with a fresh sweet taste."
+        }
+    }, 
+    {
+        "pk": 34, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Precious Eyebrows", 
+            "description": "Pure \u201cChun Mee\u201d from China. Perk up your own precious brows with a smooth brew bursting with brisk, vegetal flavor. Its leaves are hand-rolled into a coiled shape and produce a nice green cup with a plum-like aftertaste."
+        }
+    }, 
+    {
+        "pk": 35, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Gunpowder Pearl", 
+            "description": "Pure \u201cZhucha\u201d or Pearl Tea from China. Get out the big guns with this roasted, slightly smoky tea that brews a rich, sweet flavor. Tightly-rolled leaves unfold when brewed, producing a strong and full golden brew. It's a big and bold bang for the buck."
+        }
+    }, 
+    {
+        "pk": 36, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Dragonwell Superior", 
+            "description": "Pure superior grade \u201cLong Jing\u201d DragonWell from Zhejiang China. Feed the beast with this smooth, elegant tea with buttery, vegetal flavor. One of China\u2019s famous green teas for a darn good reason; this is premium, Spring picked, pan-fried tender leaves hand-crafted to be simply delicious."
+        }
+    }, 
+    {
+        "pk": 37, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Precious Jade Dew", 
+            "description": "Pure organic \u201cGyokuro\u201d 2011 Harvest from Kyushu Japan. The best, young leaves from the finest plants are used to produce this special tea that brews a jade green color with a very sweet, creamy, taste. This premium tea undergoes a shade grown process that enhances the deep green color, flavor and antioxidant properties of each delicious cup.\u00a0Gyokuro\u00a0is considered Japan's finest tea and an organically grown\u00a0Gyokuro of this quality is a rare thing. Indulge in green tea that is truly sublime."
+        }
+    }, 
+    {
+        "pk": 38, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Premium Sencha", 
+            "description": "Pure premium \u201cSencha\u201d tea 2011 Harvest, Kyushu Japan. This steamed tea has a distinctive green leaf and brews a delicious cup with fresh, grassy aroma and smooth rich taste. This tea is produced to time honored precision crafted in the Aichi region of Japan famous for spectacular quality green teas."
+        }
+    }, 
+    {
+        "pk": 39, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Brown Rice Tea", 
+            "description": "Pure top grade organic \u201cGenmaicha\u201d from Japan. Green tea meets Rice Crispies in this favorite that is as rich in flavor as it is rich with history. A traditional blend of fine quality steamed Sencha green tea and toasted rice produce a warm brown rice aroma and fresh grassy taste. There's a lot of\u00a0Genmaicha out there, we went for the 'good stuff'.\u00a0No craggily leaf here. Just beautiful tender leaves and toasted kernels, produced to Japanese perfection. Sip, savor, enjoy \u2014 a great Genmaicha is a beautiful thing."
+        }
+    }, 
+    {
+        "pk": 40, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "FULL", 
+            "name": "Genmai Matcha", 
+            "description": "Pure premium \u201cGenmaicha Iri Matcha\u201d from Japan. Brown rice tea is skillfully blended in Japan with \u201cMatcha\u201d fine ground green tea for a supercharged version of the classic bursting with extra greenness, full body and light sweetness. Matcha tea is loaded with many times the nutrients and flavor than any other green tea. Fine grade matcha is blended in Japan with steamed sencha and rice kernels for a cup that's a toasty roasty, clean and green\u00a0Genmaicha Matcha experience."
+        }
+    }, 
+    {
+        "pk": 41, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Green Twig", 
+            "description": "Pure green \u201cKukicha\u201d from Kyushu Japan. You\u2019ll never look at sticks and stems the same again. An unusually awesome tea, this Japanese old school favorite made from the stems and leaves of green tea produces a creamy lightly sweet flavor."
+        }
+    }, 
+    {
+        "pk": 42, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Roasted Twig", 
+            "description": "Pure roasted \u201cKukicha\u201d from Japan. Low caff and never bitter, you won't believe you're drinking green tea. Charcoal roasted to perfection, browned stems and leaf brew an amber cup with toasty, caramel-like flavor."
+        }
+    }, 
+    {
+        "pk": 43, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "MEDIUM", 
+            "name": "Late Harvest", 
+            "description": "Pure \u201cBancha\u201d from Japan. Harvested late in the season from the green tea fields of Japan, you won\u2019t mind running \u201clate\u201d yourself after sipping this green tea with large, pale leaves that brew a brisk, grassy cup with a sweet aroma."
+        }
+    }, 
+    {
+        "pk": 44, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "GREEN", 
+            "caffeine": "HIGH", 
+            "name": "Fine Matcha 25g", 
+            "description": "Pure finely ground organic green tea leaves from Japan. Matcha is one of the tea world's most unique teas. Whipped into intense frothy liquor, we call it the \u201cespresso of green tea\u201d. Matcha is creamy, oceanic and fragrant. It's potent. Real potent. It's a healthy boost for mind and body containing powerful vitamins and minerals. Matcha is the strongest and\u00a0healthiest\u00a0of any tea."
+        }
+    }, 
+    {
+        "pk": 45, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Creme Brulee", 
+            "description": "The French word for love is \u201camour\u201d and this roasted oolong is love transformed. Amber oolong is infused with creamy notes of vanilla bean and herbs for a taste that\u2019s smooth, lightly sweet and toasty with lovely lingering flavor. A blend of roasted oolong leaves, vanilla, roasted green tea and licorice."
+        }
+    }, 
+    {
+        "pk": 46, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Jasmine Beauty", 
+            "description": "Handcrafted oolong artfully blended to release delectable jasmine notes with a smooth, sweet taste. Rare tea leaves are harvested from ancient, wild Chinese tea trees up to 1700 years old. The full, smooth qualities of this oolong with the sweet fresh fragrance of real jasmine blossoms make this an uncommon jasmine treat."
+        }
+    }, 
+    {
+        "pk": 47, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Ginger Pear Oolong", 
+            "description": "Roasted oolong lightly kissed with the essences of fresh pear and spicy ginger. This sweet and spicy blend starts with Wuyi oolong grown high in the mountains of China then mixed with pear and ginger root for a lightly soft, fruity and toasty warm taste."
+        }
+    }, 
+    {
+        "pk": 48, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Plumberry Oolong", 
+            "description": "Close your eyes and imagine aromas of juicy plum tarts toasting near a roasting fire. Succulent tangy schizandra berries and darkened oolong tea is blended with the light essence of plum and\u00a0hibiscus\u00a0petals revealing a sweet, tangy and gentle brew."
+        }
+    }, 
+    {
+        "pk": 49, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Silk and Citrus", 
+            "description": "Slip into this smooth blend and say \"hello sexy\" to this special lemon zest vanilla kissed tea. Roasted oolong pouchong leaves are blended with natural vanilla, citrus and lemon myrtle for a creamy smooth, refreshingly warm, silky sweet treat."
+        }
+    }, 
+    {
+        "pk": 50, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Peach Oolong", 
+            "description": "Take a visit to the orchard, the flavor and aromas of fresh picked peaches amongst toasty oak swirl within this mountain grown Wuyi oolong. Grab your own bushel of hand blended oolong, rosehips, essences of apricot, peach and marigold petals."
+        }
+    }, 
+    {
+        "pk": 51, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Jade Oz", 
+            "description": "Osmanthus Flower \"Gui Hua\" Oolong from Taiwan.\u00a0Light luxurious \u201cJade\u201d oolong is infused with the floral aromas of osmanthus creating a luscious flavor that lifts the senses. Delicate, fruity and floral with lingering body and peach-like flavor, this classic blend of high mountain grown lightly oxidized oolong that has been crafted with the fragrant golden osmanthus blossoms in a time honored tradition."
+        }
+    }, 
+    {
+        "pk": 52, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Mountain Orchid", 
+            "description": "Pure, rare high mountain oolong from Taiwan. Special top grade leaves are lightly oxidized yielding natural lilac flavor unique to high mountain oolongs. Brewed multiple times, each infusion reveals distinctive flavor that's full, floral and outrageously good."
+        }
+    }, 
+    {
+        "pk": 53, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Iron Goddess of Mercy", 
+            "description": "Pure \u201cTi Kuan Yin\u201d from Taiwan. Find the god or goddess in you with this classic that is a must-have in every oolong lover\u2019s journey. Savor smooth, tangy and slight nutty notes with sweet floral flavor in a classic oolong of medium oxidation value."
+        }
+    }, 
+    {
+        "pk": 54, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Iron Goddess Dark", 
+            "description": "Pure \u201cTi Kuan Yin\u201d from Taiwan. The \"dark sister\u201d of the original greener goddess, this tea is crafted with greater oxidization for a darker rich, woody aroma and full taste. Handrolled, hand roasted leaves make for a toasty tea with warm roasted character that can be resteeped over and over for multiple delights."
+        }
+    }, 
+    {
+        "pk": 55, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Roasted Qilan", 
+            "description": "Pure \u201cQilan\u201d is a semi-oxidized Chinese oolong tea. Dark and toasty, smooth and smoky, our Qilan is crafted with big curly leaves to reveal a hearty flavor. With a full body that's super smooth, this amber brew is good on its own or paired with foods."
+        }
+    }, 
+    {
+        "pk": 56, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Wuyi Rock", 
+            "description": "Pure \u201cWuyi\u201d is Chinese oolong tea of exceptional quality. Dark and toasty, smooth and lightly smoky, Wuyi's large leaves grown high in the mountains are crafted for rich, full flavor. Its amber brew is never bitter and always delightfully\u00a0smooth."
+        }
+    }, 
+    {
+        "pk": 57, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "OOLONG", 
+            "caffeine": "MEDIUM", 
+            "name": "Purple Indo", 
+            "description": "Pure heavily oxidized oolong from Indonesia. This aged rare oolong gets ooohs and ahhs from exotic tea hunters. 99% oxidized darkness produces rich toasty tea with purplish brews. Enjoy handrolled leaves unfurling with each smoky sweet infusion."
+        }
+    }, 
+    {
+        "pk": 58, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Coconight", 
+            "description": "Roasted coconut flavors soar from this smooth black tea. Dark, toasty and coconutty, this is a luscious blend of black tea, coconut, roasted green tea bits and cornflowers. It's smooth and might just soothe a craving for a taste of the exotic."
+        }
+    }, 
+    {
+        "pk": 59, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Vanilla Sky", 
+            "description": "You\u2019ll be seeing stars with this velvety tea. Rich, full-bodied Assam black tea combined with natural soothing vanilla bits along with hand-tied star shaped white tea. This simple combo is, quite simply, a perfect vanilla black tea."
+        }
+    }, 
+    {
+        "pk": 60, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Black Satin", 
+            "description": "Curb those cravings for sweets with black tea that\u2019s as smooth as silk. Black tea with cocoa mint notes in an artful blend of bold Assam tea with cacao nibs, mint, chocolate and vanilla essence for intoxicating aromas and smooth splendid flavor."
+        }
+    }, 
+    {
+        "pk": 61, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Spiced Citrus", 
+            "description": "Tea lovers rejoice for this classic citrus-spice combo. A flavor combination that has been around for generations, ours is blended to be smooth, zesty and delicious. Orange bits, assam tea and cinnamon chips soothe and stimulate the senses."
+        }
+    }, 
+    {
+        "pk": 62, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "House Chai", 
+            "description": "Get your spice on with our organic house-chai that\u2019s bound to please. Blended with tradition, this chai is created with a strong black Assam tea, cinnamon, dried ginger, cloves, cardamom and pieces of vanilla. A spicy bold tea with a classic chai kick."
+        }
+    }, 
+    {
+        "pk": 63, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Chili Chai", 
+            "description": "Not for the faint of heart, this chai packs a some serious heat. The hottest tea we've made (by demand) it's Assam tea, chili peppers, Theo\u2122 dark chocolate (v), ginger, cinnamon, cloves, cardamom and vanilla. WARNING:Contains real chili heat."
+        }
+    }, 
+    {
+        "pk": 64, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Black joy", 
+            "description": "Walk with a skip in your step after sipping this blend that's lightly peppery and sweet. A stimulating blend designed to lift your senses and renew your stamina. Get joy from South Indian black tea leaves, coriander, cloves and marigold flower petals."
+        }
+    }, 
+    {
+        "pk": 65, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Biscotti", 
+            "description": "Fresh baked almond cookie aromas linger in this smooth black tea.\u00a0Reminiscent\u00a0of sweet scents straight from the kitchen, it's a comforting, tasty, warm and toasty mix of black tea, almond, cinnamon chips and safflower for a soothing almond delight."
+        }
+    }, 
+    {
+        "pk": 66, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Coffeebreak", 
+            "description": "Coffee kickers delight with a latte-like tea infused with toasty aromas and lingering coffee kissed taste. Black tea leaves are combined with real coffee beans, cocoa nibs, roasted tea, orange pieces and a touch of stevia leaf."
+        }
+    }, 
+    {
+        "pk": 67, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Mango Basil", 
+            "description": "It's off to the tropics with an island sweet taste and satin like smoothness in a full bodied tea. This intoxicating combination of black tea, sweet basil, mango bits, natural mango essence and calendula create a culinary twist on tropical tastes."
+        }
+    }, 
+    {
+        "pk": 68, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Cherry Bomb", 
+            "description": "Surrender to black tea bursting with fruity black cherry flavor. High grown Ceylon black teas are blended with flower blossoms, rosehips and natural\u00a0organic\u00a0cherry essences to create a flowery fruity cherry kissed infusion.\u00a0Great"
+        }
+    }, 
+    {
+        "pk": 69, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Tiger Tail", 
+            "description": "Tame that wild beast. Fresh bites of ginger contrast the smooth fruity sweetness of peach to have you purring from first to last sip. Indian Black tea, ginger, peach bits, natural essences and whole clove make black tea even peachier with a hint of spice."
+        }
+    }, 
+    {
+        "pk": 70, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Black n Blue", 
+            "description": "Say goodbye to the blues and hello to a bright cup with fresh blueberry taste. A blend of quality Ceylon black tea lightly fused with hibiscus petals, elderberries, currants and cornflowers for a delicious berry taste that's\u00a0uplifting hot and refreshing on ice."
+        }
+    }, 
+    {
+        "pk": 71, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Earl Grey Bouquet", 
+            "description": "Earl Grey blended with lavender and jasmine, it\u2019s \u201cLady Grey\u201d taken to another level. Aromatic lavender and jasmine marry with citrusy bergamot black tea to uplift the senses and satisfy a craving for a fragrant, smooth and floral cup."
+        }
+    }, 
+    {
+        "pk": 72, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Earl Grey Creme", 
+            "description": "Classic Earl Grey black tea with a silky twist. Wildly popular hot or iced our Earl is fresh, citrus sweet with a vanilla finish. Ceylon black tea is blended with Sicilian bergamot, natural vanilla essences and blossoms for a delicious spin on the classic."
+        }
+    }, 
+    {
+        "pk": 73, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Earl Grey Classic", 
+            "description": "Classic Earl Grey that is blended with fine Ceylon and China teas with exceptionally bright aromas and taste. Natural essence from the aromatic skin of the bergamot fruit is used to flavor this\u00a0traditional\u00a0tea\u00a0with a famously unique citrus taste."
+        }
+    }, 
+    {
+        "pk": 74, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "English Breakfast", 
+            "description": "Classic \u201cbreakfast\u201d blend of select Assam and Ceylon teas for those who like a strong tea to match a stiff upper lip. Full bodied, robust with floral notes, this blend is great on its own and splendid with milk and sweetener exuding soft aromas of honey."
+        }
+    }, 
+    {
+        "pk": 75, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Irish Breakfast", 
+            "description": "Classic \u201cbreakfast\u201d tea blend of Assam teas. If you like your teas strong like your whiskey, then this tea is for you. It\u2019s a robust, assertive black tea designed for milk and sweetener answering the need for a strong morning cup in a classic \u201cIrish\u201d way."
+        }
+    }, 
+    {
+        "pk": 76, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Assam", 
+            "description": "Pure \"Assam\" tea from India. Our bold leaf Assam features full body and malty sweet taste. A great FairTrade tea coming from\u00a0prestigious\u00a0Rembeng Estate. Our select Assam delivers a superb brew with wonderful aroma and rich sweet taste."
+        }
+    }, 
+    {
+        "pk": 77, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Yunnan", 
+            "description": "Pure \u201cYunnan\u201d Dian Hong tea from China. Produced in one of the world's oldest tea\u00a0growing\u00a0regions, with little bitterness, this \"Yunnan Red\" (black) tea is earthy sweet and exceptionally smooth unique to quality Yunnan golden tipped tea."
+        }
+    }, 
+    {
+        "pk": 78, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Keemun", 
+            "description": "Pure \u201cKeemun\u201d from China is a world renowned Chinese tea with fruity aromas and smooth taste. It's known as Qimen in China's Anhui provence where it is grown, our Keemun produces an amber brew that's rich and smooth with light fruity notes."
+        }
+    }, 
+    {
+        "pk": 79, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Darjeeling", 
+            "description": "Pure \u201cDarjeeling\u201d from India. From the high elevation Selim Hill gardens of\u00a0Darjeeling in West Bengal India, this tea is often referred to as the champagne of teas. This fine estate tea has a delicate flavor with light\u00a0musky spiciness\u00a0and a flowery fruity finish."
+        }
+    }, 
+    {
+        "pk": 80, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Ceylon", 
+            "description": "Pure \u201cCeylon Orange Pekoe\u201d from Sri Lanka. This classic tea from the generations old tea growing region that was once called Ceylon. Classic flavor that\u2019s full bodied, mellow and lightly sweet. There\u2019s no \u201corange\u201d in this tea, the name refers to the grade and style of the high quality leaf pick."
+        }
+    }, 
+    {
+        "pk": 81, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Nilgiri", 
+            "description": "Pure \u201cNilgiri\u201d tea from India. A delicate and superb tea from a region known for the finest of black teas. This high-elevation Blue Mountain tea has colorful tipped leaves that produce a medium bodied brew that is fresh, aromatic, fragrant and flavorful."
+        }
+    }, 
+    {
+        "pk": 82, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Vietnam", 
+            "description": "Pure \u201cNam Lahn\u201d Orange Pekoe from Vietnam. Wild-grown teas from ancient trees 700-800 years old grown in remote Western Vietnam have a distinctive rich, malty character and are known to have double the antioxidants of other black teas."
+        }
+    }, 
+    {
+        "pk": 83, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Russian Caravan", 
+            "description": "Pure \u201cRussian Caravan\u201d smoked tea. A blend of Yunnan teas and Lapsang Souchong. Bold, mellow and smoky, this is a blend popularized in old world Russia that\u2019s rich, balanced and created for a less-intense pine smoked aroma and flavor."
+        }
+    }, 
+    {
+        "pk": 84, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "BLACK", 
+            "caffeine": "FULL", 
+            "name": "Pine Smoked, Lapsang", 
+            "description": "Classic \u201cLapsang Souchong\u201d from China. Can't have your tea by the campfire? Now you can bring that feeling home with this classic black tea traditionally smoked with pine providing an intensely smoky Scotch-like cup with curious campfire aroma."
+        }
+    }, 
+    {
+        "pk": 86, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MED", 
+            "name": "Cocoa Puerh", 
+            "description": "Bold leaf, chocolatey pu-erh fuses the natural chocolate notes of the dark pu-erh with aromatic cocoa nibs for a rich, smooth, cocoa kissed brew. A great alternative to coffee, this is a custom blend of pu-erh, cocoa nibs and cocoa extract."
+        }
+    }, 
+    {
+        "pk": 87, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Citra Pu-erh", 
+            "description": "A centuries old pairing of citrus with earthy pu-erh in an updated way. A rich and intriguing blend of smooth bold-leaf pu-erh, orange pieces and lemongrass. Citrus promotes calming and the deep dark pu-erh can take you away."
+        }
+    }, 
+    {
+        "pk": 88, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Pu-erh Soother", 
+            "description": "Minty, earthy, bold and beautiful this tea brings together time honored digestives in one. A deep soothing brew that's doubles as a tummy tonic and hangover helper. Pu-erh, chrysanthemum and mint is blended for a rich, cooling bold pu-erh taste."
+        }
+    }, 
+    {
+        "pk": 89, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Chai Pu-erh", 
+            "description": "A spiced pu-erh blend that is superbly designed to warm and invigorate the senses. Soothing, spicy, dark and dank this blend of bold leaf pu-erh, ginger root, cinnamon chips and whole clove brew a hearty cup with rich spiced pu-erh taste."
+        }
+    }, 
+    {
+        "pk": 90, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Ancient Tree Dark", 
+            "description": "Pure loose leaf \"shou\" pu-erh from Yunnan China. Broad tea leaves from old growth forest tea \u201ctrees\u201d are prepared in the darkened shou style resulting in a brew that\u2019s smooth, earthy and lightly smoky. Not too bold, not too light, it\u2019s just right."
+        }
+    }, 
+    {
+        "pk": 91, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Yunnan Bold Leaf", 
+            "description": "Pure loose leaf \"shou\" pu-erh from Yunnan China. Deep, inky and earthy, this is a pu-erh for those that like it bold. Made in the darkened shou style, the tea brews deep amber color and stirs up woodsy aromas of fresh tilled soil and leather."
+        }
+    }, 
+    {
+        "pk": 92, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Mini Bowls Cooked", 
+            "description": "Pure cooked \u201cshou tuocha\u201d pu-erh from Yunnan China. These wee little bowls of compressed tea have full-bodied earthy flavor. Little nuggets of pu-erh goodness can be infused many times revealing smooth mellow flavor. While these little bowls are cute as a button they deliver dark bold flavor with deep earthiness\u00a0like no other."
+        }
+    }, 
+    {
+        "pk": 93, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Mini Bowls Raw", 
+            "description": "Pure green \u201csheng tuocha\u201d pu-erh from Yunnan China. Itty bitty compressed tea bowls will have you singing like a bird for a unique brew that is slightly smoky, brisk, vegetal, raw style pu-erh. Green tea-like bowls of fermented raw pu-erh are very invigorating and can be resteeped a multitude of times."
+        }
+    }, 
+    {
+        "pk": 94, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Mountain Brick Raw", 
+            "description": "Pure 2003 \"sheng\" compressed pu-erh from China, this flowery tea comes from ancient tea plants high in the Jing Mai Mountains. Large leaves prepared in the raw pu-erh style brews a honey-like, delightful greener bittersweet taste. It's pure stone mold pressed ancient strain pu-erh leaf. Provided to you loose leaf from compressed bricks."
+        }
+    }, 
+    {
+        "pk": 95, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Wild Arbor Cake Raw", 
+            "description": "Pure 2004 \"sheng bing\" pu-erh from Yunnan, China. Stone pressed ancient strain tea leaf infuses to create a musky sweet cup with hints of apricot and honey. Medium dark in its oxidization, it's old world style pu-erh that can be resteeped multiple times for a smooth mellow taste. Provided to you loose leaf from the compressed cake."
+        }
+    }, 
+    {
+        "pk": 96, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "PUERH", 
+            "caffeine": "MEDIUM", 
+            "name": "Ancient Tree Raw", 
+            "description": "Pure handrolled and roasted \"sheng\" pu-erh from China. A luxurious tea harvested from ancient tea trees in the old growth forests of China. Tribes continue to harvest this tea from ancient trees as their ancestors did centuries ago. The leaves from tea trees planted over 1000 years ago for a brisk, energizing delicious cup with\u00a0honey-like\u00a0taste."
+        }
+    }, 
+    {
+        "pk": 97, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Cocoluxe", 
+            "description": "Indulge in this luxurious sweet coconut creation that is both nutritious and delicious. Savor this exotic mix of\u00a0rooibos tea with coconut shreds, cacao nibs, cinnamon, star anise, rose and sweetleaf for an intoxicating coconut kissed full sensory lift."
+        }
+    }, 
+    {
+        "pk": 98, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Red Hot", 
+            "description": "Cinnamon red hot rooibos for those who like it spicy sweet. Add some fire to your belly with this addictive blend of rooibos tea blended with cinnamon chips, chili peppers and stevia leaf created to be cinnamon sweet, healthful with a touch of heat."
+        }
+    }, 
+    {
+        "pk": 99, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Red Satin", 
+            "description": "Curb those cravings with a cocoa mint rooibos that is as smooth as silk. This lightly sweet and sultry creation of healthy rooibos tea blended with cacao nibs, peppermint leaf, honeybush and vanilla transforms rooibos into a soothing\u00a0decadent\u00a0treat."
+        }
+    }, 
+    {
+        "pk": 101, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Chai Rooibos", 
+            "description": "Add spice to your day or night with this herbal chai that can be enjoyed anytime. This tea-free, caffeine-free rooibos chai is a healthy blend that's lightly fruity, mildly spicy take on traditional chai taste with rooibos, cinnamon, ginger, clove and cardamom."
+        }
+    }, 
+    {
+        "pk": 102, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Floraberry", 
+            "description": "Rolling fields of flowers and berries are conjured up in this flavorful tea that's fused with a floral fruity bouquet. Berry sweet with hints of lavender, this popular tea is a soothing and refreshing blend of rooibos, lavender, rose, currants and elderberries."
+        }
+    }, 
+    {
+        "pk": 103, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Calypso", 
+            "description": "Mango scented ocean breezes are conjoured up in a lightly sweet tropical cup designed to give a healthy boost and transport the tastebuds with sun-dried green rooibos, mango pieces, apple bits, calendula, orange peel and rose petals."
+        }
+    }, 
+    {
+        "pk": 104, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Cherry Amaretto", 
+            "description": "It is love at first scent with this fresh and seductive rooibos tea. Swoon for almond sweet rooibos that is blended to please with organic cherry, rosehips,\u00a0natural almond essences and\u00a0almond slivers for a healthful, soothing cherry almond treat."
+        }
+    }, 
+    {
+        "pk": 105, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Coconut Lav", 
+            "description": "Rooibos and coconut blended with uplifting lavender is a simply to-die-for combo \u2014 try it you\u2019ll see. The earthy richness of coconut rooibos enhanced by the sweet aromas of lavender transforms rooibos into a succulent aromatic cup."
+        }
+    }, 
+    {
+        "pk": 106, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Ginger Lime", 
+            "description": "Refresh with green rooibos kissed with lemon lime taste. Green rooibos is the same as red rooibos only unfermented for grassy healthy taste. Rooibos is blended with ginger, lime leaves, lemongrass, lemon myrtle and citrus bits for a fresh bright flavor."
+        }
+    }, 
+    {
+        "pk": 107, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Capetown", 
+            "description": "Calming yet rejuvenating, this combo is a floral potpourri of a creation. With sweet, citrus, floral and minty flavor this tea bursts with cheer. Restore with rooibos crafted with chamomile, mint, rose, orange and lemon verbena for a refreshing soother."
+        }
+    }, 
+    {
+        "pk": 108, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Red Earl", 
+            "description": "The classic Earl is red all over in this caffeine free herbal blend of the Earl Grey tea. Fine bergamot essence is blended with pure rooibos for a perfect amber colored brew with bold citrus notes so you can enjoy the flavor of Earl Grey without the kick."
+        }
+    }, 
+    {
+        "pk": 109, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Red Peach", 
+            "description": "Here\u2019s to long life, as peaches have long been considered a symbol of long life and immortality. Good hot and refreshing over ice, healthy antioxidant rich rooibos tea is blended with natural peach essences and calendula for life a little more peachy."
+        }
+    }, 
+    {
+        "pk": 110, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "ROOIBOS", 
+            "caffeine": "NONE", 
+            "name": "Rooibos Pure", 
+            "description": "Pure rooibos has smooth rich earthy full flavor with hints of vanilla nuttiness. It's a nutritional powerhouse loaded with nutrients, antioxidants, vitamins and minerals but all the hoopla is just as much about its soothing, refreshing and unique\u00a0taste."
+        }
+    }, 
+    {
+        "pk": 112, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Coconut Yerba", 
+            "description": "Argentinean yerba meets toasty coconut"
+        }
+    }, 
+    {
+        "pk": 113, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Mate Tropic", 
+            "description": "Sail away with Yerba touched with a taste of the tropics in this mango-passion infused concoction crafted to lift the spirits. Fruits and uplifting yerba mate are blended with calendula and hibiscus petals to brighten any season rain or shine."
+        }
+    }, 
+    {
+        "pk": 114, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Chai Mate", 
+            "description": "The miracle of mate meets the spiciness of chai head on for a stimulating herbal twist on the traditional chai.  Rich with spices, roots and herbs, this flavorful blend contains yerba mat\u00e9, cardamom, cloves and cinnamon to uplift your senses."
+        }
+    }, 
+    {
+        "pk": 115, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Citra Mate", 
+            "description": "Zesty mate makes good with a blend that crafted to refresh and stimulate. Great for a work day or workout, fresh green yerba mate leaf is blended with lemongrass, orange peel and lemon myrtle making for an aromatic energizing citrus kissed tonic."
+        }
+    }, 
+    {
+        "pk": 116, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Mint Mate", 
+            "description": "Yerba mate has gone minty in this refreshing mate with crisp aroma and soothing flavor of powerful mint tea. Green yerba mate is blended with spearmint, peppermint leaves and a touch of stevia leaf for stimulating mentholated liquid energy."
+        }
+    }, 
+    {
+        "pk": 117, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Cocoa Mate", 
+            "description": "Go koo-koo for cocoa with this toasty twist on Mate. This yerba mate's roasted brown leaf brews a toasted cup with a light chocolate taste. Roasted yerba mate, cacao nibs, carob and floral petals make for a cocoa kissed earthy mate tea."
+        }
+    }, 
+    {
+        "pk": 118, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Java Mate", 
+            "description": "Yerba Mate is a go-to brew for folks kicking coffee. This blend of roasted yerba mate, carob and ramon nut creates an earthy, dark roasted richness that can help satisfy a coffee craving. Try cream and sweetener to with this tea."
+        }
+    }, 
+    {
+        "pk": 120, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Green Yerba, Brazil", 
+            "description": "Pure \u201cYerba Mate\u201d from Para\u00f1a Brazil. There's mate, and then there's mate. This is exceptional grade fresh green yerba mate that is fresh-packaged shortly after picking, not aged, for a fresher greener taste. It\u2019s crafted with only the leaves of mate and has a green finish, bursting with minerals and vitamins \u2014it is clean, green and high octane."
+        }
+    }, 
+    {
+        "pk": 121, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Aged Yerba, Arg.", 
+            "description": "Pure \u201cYerba Mate\u201d from Argentina. Yerba from this region is enjoyed by millions and is the most predominant yerba mate style out there. Different from \u201cfresh packed \u201dBrazilian Green, this is aged and dried in traditional Argentenian style to bring out a complex, distinctive smooth and lightly spiced flavor."
+        }
+    }, 
+    {
+        "pk": 122, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "YERBA", 
+            "caffeine": "FULL", 
+            "name": "Dark Roast Yerba", 
+            "description": "Pure Dark Roast \u201cYerba Mate\u201d from Argentina. Beautiful dark roasted leaves of yerba mate brew a tea with a toasty, nutty, coffee-like flavor and aroma. Fresh green yerba mate leaf is roasted exactly like coffee in modified coffee roasters making it dark in appearance with a rich, roasted, caramel-like flavor."
+        }
+    }, 
+    {
+        "pk": 123, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Tranquility", 
+            "description": "Chill. Feeling the need to relax? Drift away to a serene place with a perfectly tranquil blend that brews a sweet, floral and cooling taste. Delicious and soothing, this artful blend of chamomile, mint, and rooibos is designed to give a little peace."
+        }
+    }, 
+    {
+        "pk": 124, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Melody", 
+            "description": "Peace and inspiration are in perfect tune with this comforting chamomile citrus creation. An excellent chillout tea, this is a mellow yellow mix of soothing chamomile, uplifting citrus and petals of hibiscus to help keep you in perfect pitch."
+        }
+    }, 
+    {
+        "pk": 125, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Ginger Zest", 
+            "description": "Meet the real fresh maker. This crisp invigorating blend has pep with a touch of lemon ginger vigor. Soothing hot and refreshing over ice, this is a smooth blend of lemongrass, ginger root, honeybush and lemon verbena that's a rejuvenating delight."
+        }
+    }, 
+    {
+        "pk": 126, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Shaman", 
+            "description": "Find your \"ooohm\" state with this revitalizing blend of Tulsi herb \u201cthe elixir of life\" and refreshing, fortifying spices designed to bring peacefulness into your day. Tulsi leaves, fennel seeds, orange peel and mint brew an elixir that is lightly citrus spiced."
+        }
+    }, 
+    {
+        "pk": 127, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Serenity", 
+            "description": "Holy Basil Tulsi blended with rose petals and soothing herbs for a floral sweet botanical infusion. Lift your senses and satisfy your taste buds with this blend of Tulsi, rose petals, lemon myrtle, chamomile, coconut shreds and stevia leaf."
+        }
+    }, 
+    {
+        "pk": 128, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Mind Body Soul", 
+            "description": "Cool out with a sweet fresh blend of select botanicals used to sharpen the mind and replenish the body. Based on ayurvedic tradition this tonic is crafted to aid digestion and memory with a calming blend of ginkgo leaf, licorice, coriander, fennel and mint."
+        }
+    }, 
+    {
+        "pk": 129, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Tropical Cocktail", 
+            "description": "You always were a little \u201cfruity\u201d. Why not go all the way with a blend with fruity finish and tropical aromas. Hot or iced, this sweet, tart blend of hibiscus, rosehips, black currants, rooibos, orange peel and mango brews refreshment that's fruity and bright."
+        }
+    }, 
+    {
+        "pk": 130, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Sherbet", 
+            "description": "Reminiscent of citrusy sherbet on a hot summer day, this is a light and bright blend that is loaded with vitamin C and fresh cheery, sweet flavor. Contains rose hips, hibiscus petals, orange peel, apple pieces, and pineapple with fruit-punch taste."
+        }
+    }, 
+    {
+        "pk": 131, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Cranapple", 
+            "description": "Autumn is here anytime with this fruity brew with the crisp warm flavor of baked apples and cranberry. Soothing hot and refreshing over ice, this sweet tart blend of dried apple, hibiscus, rosehips and cranberry essences reveal a fresh pink cup."
+        }
+    }, 
+    {
+        "pk": 132, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Fire and Ice", 
+            "description": "Feeling hot under the collar? Take a deep breath and cool those jets with a soothing blend of hibiscus flowers, rose petals, chamomile flowers and peppermint that's fresh and comforting. Fruity, flowery and lightly minty this tea brews a little bit of serenity."
+        }
+    }, 
+    {
+        "pk": 134, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Currant Berry", 
+            "description": "This tooti-frooti blend brews purple-pink infusions with sweet-tart taste and vitamin C punch. A bright mix of fruit, flowers and bursting berry. A blend of black currants, red currants, hibiscus, elderberries and rosehips for a brew that is sweet and refreshing."
+        }
+    }, 
+    {
+        "pk": 135, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Sugarplum", 
+            "description": "Plum kissed cinnamon spiced herbal tea that excites the senses. A blend of cinnamon chips, ginger, hibiscus petals and plum bursting with vitaminC. It's fruity warming aromas with fruit spice flavor makes for the perfect seasonal treat."
+        }
+    }, 
+    {
+        "pk": 136, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Immunity", 
+            "description": "A flu fighter immunity booster that brews a tangy, sweet cup. Load-up on vitamin C, support your immune system and relieve stress on your body with a blend of enchinacea, hibiscus, rosehips, tulsi, currants, licorice and lavender."
+        }
+    }, 
+    {
+        "pk": 137, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Stressless", 
+            "description": "Relax and restore with a floral cup designed for liquid relaxation. Lightly sweet and super soothing, this brew is blend of chamomile, lavender, lemongrass, hibiscus petals, licorice, rooibos and calendula designed to help unwind."
+        }
+    }, 
+    {
+        "pk": 138, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Cleanse", 
+            "description": "Gentle, clean and soothing, this tea is designed as a general detoxification tea with lemony minty taste with sweet lingering flavor. Cleansing lemongrass and dandelion leaf with peppermint, licorice concoction are blended to delight."
+        }
+    }, 
+    {
+        "pk": 139, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "WonderWoman", 
+            "description": "This blend uses ago old ingredients to help keep you in perfect tune. This minty sweet creation combines soothing nettle, raspberry leaf, peppermint leaf, chamomile flowers, ginger root, dandelion leaf, oatstraw, horsetail, stevia and rose to help keep you in balance."
+        }
+    }, 
+    {
+        "pk": 140, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "SuperMan", 
+            "description": "Designed to promote men\u2019s health using time honored herbs and botanicals, this blend is an earthy blend of roots and berries. Burdock, dandelion, marshmallow, nettle and eleuthero roots, hawthorn berries, saw palmetto berry, fennel and oatstraw to aid in prostate and general health."
+        }
+    }, 
+    {
+        "pk": 141, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Licorice Fix", 
+            "description": "Licorice lovers delight over this sweet licorice root spiced tea. This blend will satisfy your sweet-tooth with a earthy sweet blend of licorice root, orange peel, cinnamon, ginger and fennel that coats the throat with powerful licorice healing."
+        }
+    }, 
+    {
+        "pk": 142, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Aphroditea", 
+            "description": "Sparks fly with this intoxicating aphrodisiac with potent herbs used for lovin' over the ages. Get tipsy with this spicy blend of damiana, gotu kola, kava kava, saw palmetto, cinnamon, ginger, clove, licorice, cardamom and rose."
+        }
+    }, 
+    {
+        "pk": 143, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Chamomile Flowers", 
+            "description": "Calm yourself from inside out with sweet mellow whole organic chamomile blossoms that can helps ease mind and body. Fresh and beautiful dried flowers brew a golden cup with a flowery apple like taste that is superbly calming, cleansing and soothing."
+        }
+    }, 
+    {
+        "pk": 144, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Lavender Blossoms", 
+            "description": "If only the world was paved in lavender. A tonic for mind and body, it can soothe the spirit, calm the nerves and relieve stress. Lavender is soft, lightly sweet, intensely aromatic and with a pale purple color that tastes exquisite with a drop of honey."
+        }
+    }, 
+    {
+        "pk": 145, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Peppermint Leaves", 
+            "description": "Add some pep day or night with Pacific Northwest grown\u00a0peppermint leaf that deeply soothes and refreshes. Known as a powerful digestive tonic for unsettled tummies, our peppermint is top grade leaf with intense clean tingly mint flavor like no other."
+        }
+    }, 
+    {
+        "pk": 146, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Lemongrass", 
+            "description": "Exquisite tea that's simple and soothing, our pure lemongrass is cooling, clear and crisp with a distinctive, lemony aroma and taste. Known to relieve fatigue and stress, soothe the stomach and help with sleep, we love it for its clean citrus fresh taste."
+        }
+    }, 
+    {
+        "pk": 147, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Licorice Root", 
+            "description": "Sweet and full flavored, not at all the taste of licorice the candy, this root has been brewing relief for centuries. It's known to soothe a sore throat, aid a cold and the tummy too, it's good for oral health and creates a uniquely rooty sweet fragrant brew."
+        }
+    }, 
+    {
+        "pk": 148, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Ginger Root", 
+            "description": "Ginger root brews a fiery liquor with spicy sweet taste. One of the planet's most widely used remedies, it's cold relieving, stomach soothing and can lift the senses. Delish on its own or with a honey lemon twist, its soothing heat packs a spicy kick."
+        }
+    }, 
+    {
+        "pk": 149, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Hibiscus Petals", 
+            "description": "Brilliant red and rich with tangy fruity taste, hibiscus tea is made from pure hibiscus petals and nothing else. Deep, strong, sweet and tart, the infusion of this flower packs a full flavor punch that\u2019s vitamin C charged fresh and fruity delight."
+        }
+    }, 
+    {
+        "pk": 150, 
+        "model": "tea.tea", 
+        "fields": {
+            "category": "HERBAL", 
+            "caffeine": "NONE", 
+            "name": "Tulsi Herb", 
+            "description": "\"Holy basil\" Tulsi from India is an ancient medicinal herb used for 5000 years said to reduce the effects of daily stress and aging, enhances calm and clarity, boosts immunity and stamina and is antiox rich with a soothing citrusy clove taste. Ours is a blend of 3 types of tulsi, Rama, Krisha and Vana Tulsi, in a time honored healthful brew."
+        }
+    }
+]

@@ -1,0 +1,8522 @@
+[
+    {
+        "pk": 0, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "1", 
+            "tag": "BERRY"
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "1", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "1", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "1", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "1", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "1", 
+            "tag": "POMEGRANATE"
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "1", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "1", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "2", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "2", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "2", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "2", 
+            "tag": "GOJI"
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "2", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "2", 
+            "tag": "GINSENG"
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "2", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "2", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "3", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "3", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "3", 
+            "tag": "CHAMOMILE"
+        }
+    }, 
+    {
+        "pk": 19, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "3", 
+            "tag": "RELAXING"
+        }
+    }, 
+    {
+        "pk": 20, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "3", 
+            "tag": "KAVA KAVA"
+        }
+    }, 
+    {
+        "pk": 21, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "3", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 22, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "3", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 23, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "4", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 24, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "4", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 25, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "4", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 26, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "4", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 27, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "4", 
+            "tag": "TULSI"
+        }
+    }, 
+    {
+        "pk": 28, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "4", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 29, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "4", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 30, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "4", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 31, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "4", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 32, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "5", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 33, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "5", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 34, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "5", 
+            "tag": "GINSENG"
+        }
+    }, 
+    {
+        "pk": 35, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "5", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 36, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "5", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 37, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "5", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 38, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "5", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 39, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "5", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 40, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "6", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 41, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "6", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 42, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "6", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 43, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "6", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 44, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "6", 
+            "tag": "LEMONGRASS"
+        }
+    }, 
+    {
+        "pk": 45, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "6", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 46, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "6", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 47, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "6", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 48, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "7", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 49, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "7", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 50, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "7", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 51, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "7", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 52, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "7", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 53, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "7", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 54, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "7", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 55, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "7", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 56, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "7", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 57, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "8", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 58, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "8", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 59, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "8", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 60, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "8", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 61, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "8", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 62, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "8", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 63, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "8", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 64, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "8", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 65, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "9", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 66, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "9", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 67, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "9", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 68, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "9", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 69, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "9", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 70, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "9", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 71, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "9", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 72, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "9", 
+            "tag": "DETOXIFYING"
+        }
+    }, 
+    {
+        "pk": 73, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "10", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 74, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "10", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 75, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "10", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 76, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "10", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 77, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "10", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 78, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "10", 
+            "tag": "YERBA MATE"
+        }
+    }, 
+    {
+        "pk": 79, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "10", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 80, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "11", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 81, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "11", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 82, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "11", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 83, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "11", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 84, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "11", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 85, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "11", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 86, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "11", 
+            "tag": "CHOCOLATEY"
+        }
+    }, 
+    {
+        "pk": 87, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "12", 
+            "tag": "COCONUT"
+        }
+    }, 
+    {
+        "pk": 88, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "12", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 89, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "12", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 90, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "12", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 91, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "12", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 92, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "12", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 93, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "12", 
+            "tag": "NUTTY"
+        }
+    }, 
+    {
+        "pk": 94, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "12", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 95, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "13", 
+            "tag": "JASMINE"
+        }
+    }, 
+    {
+        "pk": 96, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "13", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 97, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "13", 
+            "tag": "MELON"
+        }
+    }, 
+    {
+        "pk": 98, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "13", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 99, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "13", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 100, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "13", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 101, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "13", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 102, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "13", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 103, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "14", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 104, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "14", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 105, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "14", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 106, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "14", 
+            "tag": "LAVENDER"
+        }
+    }, 
+    {
+        "pk": 107, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "14", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 108, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "14", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 109, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "14", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 110, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "14", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 111, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "15", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 112, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "15", 
+            "tag": "GOJI"
+        }
+    }, 
+    {
+        "pk": 113, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "15", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 114, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "15", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 115, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "15", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 116, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "15", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 117, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "15", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 118, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "15", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 119, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "16", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 120, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "16", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 121, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "16", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 122, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "16", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 123, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "16", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 124, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "16", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 125, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "16", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 126, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "16", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 127, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "17", 
+            "tag": "PEACH"
+        }
+    }, 
+    {
+        "pk": 128, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "17", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 129, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "17", 
+            "tag": "OSMANTHUS"
+        }
+    }, 
+    {
+        "pk": 130, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "17", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 131, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "17", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 132, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "17", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 133, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "17", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 134, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "17", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 135, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "18", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 136, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "18", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 137, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "18", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 138, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "18", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 139, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "18", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 140, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "18", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 141, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "18", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 142, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "18", 
+            "tag": "CARDAMOM"
+        }
+    }, 
+    {
+        "pk": 143, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "19", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 144, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "19", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 145, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "19", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 146, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "19", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 147, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "19", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 148, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "19", 
+            "tag": "NUTTY"
+        }
+    }, 
+    {
+        "pk": 149, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "19", 
+            "tag": "EARTHY"
+        }
+    }, 
+    {
+        "pk": 150, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "19", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 151, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "20", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 152, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "20", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 153, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "20", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 154, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "20", 
+            "tag": "WHITE"
+        }
+    }, 
+    {
+        "pk": 155, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "20", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 156, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "20", 
+            "tag": "NUTTY"
+        }
+    }, 
+    {
+        "pk": 157, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "20", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 158, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "20", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 159, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "21", 
+            "tag": "COCONUT"
+        }
+    }, 
+    {
+        "pk": 160, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "21", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 161, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "21", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 162, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "21", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 163, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "21", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 164, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "21", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 165, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "22", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 166, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "22", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 167, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "22", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 168, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "22", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 169, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "22", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 170, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "22", 
+            "tag": "PINEAPPLE"
+        }
+    }, 
+    {
+        "pk": 171, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "22", 
+            "tag": "PAPAYA"
+        }
+    }, 
+    {
+        "pk": 172, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "22", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 173, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "23", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 174, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "23", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 175, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "23", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 176, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "23", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 177, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "23", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 178, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "23", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 179, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "23", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 180, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "23", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 181, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "24", 
+            "tag": "JASMINE"
+        }
+    }, 
+    {
+        "pk": 182, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "24", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 183, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "24", 
+            "tag": "BERRY"
+        }
+    }, 
+    {
+        "pk": 184, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "24", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 185, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "24", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 186, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "24", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 187, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "24", 
+            "tag": "BLUEBERRY"
+        }
+    }, 
+    {
+        "pk": 188, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "24", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 189, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "25", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 190, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "25", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 191, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "25", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 192, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "25", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 193, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "25", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 194, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "25", 
+            "tag": "CHOCOLATEY"
+        }
+    }, 
+    {
+        "pk": 195, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "25", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 196, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "27", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 197, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "27", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 198, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "27", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 199, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "27", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 200, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "27", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 201, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "27", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 202, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "27", 
+            "tag": "SMOKY"
+        }
+    }, 
+    {
+        "pk": 203, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "27", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 204, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "28", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 205, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "28", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 206, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "28", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 207, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "28", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 208, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "28", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 209, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "28", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 210, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "28", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 211, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "29", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 212, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "29", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 213, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "29", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 214, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "29", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 215, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "29", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 216, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "29", 
+            "tag": "AWAKENING"
+        }
+    }, 
+    {
+        "pk": 217, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "29", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 218, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "30", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 219, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "30", 
+            "tag": "JASMINE"
+        }
+    }, 
+    {
+        "pk": 220, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "30", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 221, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "30", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 222, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "30", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 223, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "30", 
+            "tag": "BERGAMOT"
+        }
+    }, 
+    {
+        "pk": 224, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "30", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 225, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "31", 
+            "tag": "JASMINE"
+        }
+    }, 
+    {
+        "pk": 226, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "31", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 227, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "31", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 228, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "31", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 229, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "31", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 230, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "31", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 231, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "32", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 232, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "32", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 233, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "32", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 234, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "32", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 235, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "32", 
+            "tag": "PREMIUM"
+        }
+    }, 
+    {
+        "pk": 236, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "33", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 237, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "33", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 238, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "33", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 239, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "33", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 240, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "33", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 241, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "33", 
+            "tag": "GRASSY"
+        }
+    }, 
+    {
+        "pk": 242, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "33", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 243, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "34", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 244, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "34", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 245, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "34", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 246, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "34", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 247, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "34", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 248, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "34", 
+            "tag": "BRISK"
+        }
+    }, 
+    {
+        "pk": 249, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "34", 
+            "tag": "GRASSY"
+        }
+    }, 
+    {
+        "pk": 250, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "35", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 251, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "35", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 252, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "35", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 253, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "35", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 254, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "35", 
+            "tag": "SMOKY"
+        }
+    }, 
+    {
+        "pk": 255, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "35", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 256, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "35", 
+            "tag": "BOLD"
+        }
+    }, 
+    {
+        "pk": 257, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "35", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 258, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "36", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 259, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "36", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 260, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "36", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 261, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "36", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 262, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "36", 
+            "tag": "NUTTY"
+        }
+    }, 
+    {
+        "pk": 263, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "36", 
+            "tag": "TOASTY"
+        }
+    }, 
+    {
+        "pk": 264, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "36", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 265, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "36", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 266, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "37", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 267, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "37", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 268, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "37", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 269, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "37", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 270, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "37", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 271, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "37", 
+            "tag": "GRASSY"
+        }
+    }, 
+    {
+        "pk": 272, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "37", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 273, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "38", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 274, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "38", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 275, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "38", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 276, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "38", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 277, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "38", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 278, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "38", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 279, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "38", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 280, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "39", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 281, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "39", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 282, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "39", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 283, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "39", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 284, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "39", 
+            "tag": "NUTTY"
+        }
+    }, 
+    {
+        "pk": 285, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "39", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 286, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "39", 
+            "tag": "TOASTY"
+        }
+    }, 
+    {
+        "pk": 287, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "39", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 288, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "40", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 289, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "40", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 290, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "40", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 291, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "40", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 292, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "40", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 293, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "40", 
+            "tag": "NUTTY"
+        }
+    }, 
+    {
+        "pk": 294, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "40", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 295, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "40", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 296, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "41", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 297, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "41", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 298, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "41", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 299, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "41", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 300, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "41", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 301, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "41", 
+            "tag": "BRISK"
+        }
+    }, 
+    {
+        "pk": 302, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "41", 
+            "tag": "GRASSY"
+        }
+    }, 
+    {
+        "pk": 303, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "42", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 304, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "42", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 305, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "42", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 306, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "42", 
+            "tag": "LOW CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 307, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "42", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 308, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "42", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 309, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "42", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 310, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "42", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 311, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "43", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 312, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "43", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 313, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "43", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 314, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "43", 
+            "tag": "GRASSY"
+        }
+    }, 
+    {
+        "pk": 315, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "43", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 316, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "44", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 317, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "44", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 318, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "44", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 319, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "44", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 320, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "44", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 321, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "44", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 322, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "44", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 323, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "45", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 324, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "45", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 325, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "45", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 326, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "45", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 327, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "45", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 328, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "45", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 329, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "45", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 330, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "46", 
+            "tag": "JASMINE"
+        }
+    }, 
+    {
+        "pk": 331, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "46", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 332, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "46", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 333, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "46", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 334, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "46", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 335, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "46", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 336, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "46", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 337, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "47", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 338, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "47", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 339, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "47", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 340, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "47", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 341, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "47", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 342, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "47", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 343, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "47", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 344, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "47", 
+            "tag": "PEAR"
+        }
+    }, 
+    {
+        "pk": 345, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "48", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 346, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "48", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 347, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "48", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 348, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "48", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 349, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "48", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 350, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "48", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 351, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "48", 
+            "tag": "PLUM"
+        }
+    }, 
+    {
+        "pk": 352, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "48", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 353, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "49", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 354, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "49", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 355, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "49", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 356, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "49", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 357, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "49", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 358, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "49", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 359, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "49", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 360, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "49", 
+            "tag": "LEMON"
+        }
+    }, 
+    {
+        "pk": 361, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "49", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 362, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "50", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 363, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "50", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 364, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "50", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 365, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "50", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 366, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "50", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 367, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "50", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 368, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "50", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 369, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "51", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 370, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "51", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 371, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "51", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 372, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "51", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 373, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "51", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 374, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "51", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 375, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "51", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 376, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "52", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 377, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "52", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 378, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "52", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 379, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "52", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 380, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "52", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 381, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "52", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 382, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "52", 
+            "tag": "HIGH MOUNTAIN"
+        }
+    }, 
+    {
+        "pk": 383, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "53", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 384, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "53", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 385, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "53", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 386, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "53", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 387, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "53", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 388, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "53", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 389, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "53", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 390, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "54", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 391, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "54", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 392, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "54", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 393, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "54", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 394, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "54", 
+            "tag": "EARTHY"
+        }
+    }, 
+    {
+        "pk": 395, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "54", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 396, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "54", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 397, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "55", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 398, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "55", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 399, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "55", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 400, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "55", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 401, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "55", 
+            "tag": "NUTTY"
+        }
+    }, 
+    {
+        "pk": 402, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "55", 
+            "tag": "EARTHY"
+        }
+    }, 
+    {
+        "pk": 403, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "55", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 404, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "55", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 405, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "56", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 406, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "56", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 407, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "56", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 408, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "56", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 409, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "56", 
+            "tag": "SMOKY"
+        }
+    }, 
+    {
+        "pk": 410, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "56", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 411, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "56", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 412, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "56", 
+            "tag": "HIGH MOUNTAIN"
+        }
+    }, 
+    {
+        "pk": 413, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "57", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 414, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "57", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 415, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "57", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 416, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "57", 
+            "tag": "OOLONG"
+        }
+    }, 
+    {
+        "pk": 417, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "57", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 418, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "57", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 419, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "57", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 420, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "57", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 421, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "58", 
+            "tag": "COCONUT"
+        }
+    }, 
+    {
+        "pk": 422, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "58", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 423, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "58", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 424, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "58", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 425, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "58", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 426, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "58", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 427, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "58", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 428, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "58", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 429, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "59", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 430, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "59", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 431, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "59", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 432, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "59", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 433, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "59", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 434, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "60", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 435, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "60", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 436, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "60", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 437, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "60", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 438, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "60", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 439, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "60", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 440, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "60", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 441, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "60", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 442, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "60", 
+            "tag": "CHOCLATEY"
+        }
+    }, 
+    {
+        "pk": 443, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "61", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 444, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "61", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 445, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "61", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 446, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "61", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 447, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "61", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 448, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "61", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 449, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "61", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 450, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "61", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 451, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "62", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 452, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "62", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 453, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "62", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 454, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "62", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 455, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "62", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 456, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "62", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 457, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "62", 
+            "tag": "CARDAMOM"
+        }
+    }, 
+    {
+        "pk": 458, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "62", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 459, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "63", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 460, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "63", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 461, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "63", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 462, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "63", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 463, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "63", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 464, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "63", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 465, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "63", 
+            "tag": "STRONG"
+        }
+    }, 
+    {
+        "pk": 466, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "63", 
+            "tag": "CHILI"
+        }
+    }, 
+    {
+        "pk": 467, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "64", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 468, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "64", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 469, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "64", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 470, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "64", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 471, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "64", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 472, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "65", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 473, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "65", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 474, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "65", 
+            "tag": "ALMOND"
+        }
+    }, 
+    {
+        "pk": 475, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "65", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 476, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "65", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 477, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "65", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 478, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "66", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 479, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "66", 
+            "tag": "COCOA"
+        }
+    }, 
+    {
+        "pk": 480, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "66", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 481, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "66", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 482, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "66", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 483, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "66", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 484, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "66", 
+            "tag": "COFFEE"
+        }
+    }, 
+    {
+        "pk": 485, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "67", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 486, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "67", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 487, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "67", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 488, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "67", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 489, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "67", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 490, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "67", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 491, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "67", 
+            "tag": "BASIL"
+        }
+    }, 
+    {
+        "pk": 492, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "68", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 493, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "68", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 494, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "68", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 495, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "68", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 496, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "68", 
+            "tag": "FRAGRANT"
+        }
+    }, 
+    {
+        "pk": 497, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "68", 
+            "tag": "CHERRY"
+        }
+    }, 
+    {
+        "pk": 498, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "68", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 499, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "69", 
+            "tag": "PEACH"
+        }
+    }, 
+    {
+        "pk": 500, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "69", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 501, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "69", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 502, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "69", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 503, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "69", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 504, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "69", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 505, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "69", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 506, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "69", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 507, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "69", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 508, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "70", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 509, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "70", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 510, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "70", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 511, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "70", 
+            "tag": "HIBISCUS"
+        }
+    }, 
+    {
+        "pk": 512, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "70", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 513, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "70", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 514, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "70", 
+            "tag": "CURRANTS"
+        }
+    }, 
+    {
+        "pk": 515, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "70", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 516, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "71", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 517, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "71", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 518, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "71", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 519, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "71", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 520, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "71", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 521, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "71", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 522, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "71", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 523, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "71", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 524, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "72", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 525, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "72", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 526, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "72", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 527, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "72", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 528, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "72", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 529, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "72", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 530, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "72", 
+            "tag": "BERGAMOT"
+        }
+    }, 
+    {
+        "pk": 531, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "72", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 532, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "72", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 533, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "73", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 534, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "73", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 535, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "73", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 536, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "73", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 537, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "73", 
+            "tag": "BERGAMOT"
+        }
+    }, 
+    {
+        "pk": 538, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "73", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 539, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "73", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 540, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "73", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 541, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "74", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 542, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "74", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 543, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "74", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 544, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "74", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 545, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "74", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 546, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "74", 
+            "tag": "AWAKENING"
+        }
+    }, 
+    {
+        "pk": 547, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "74", 
+            "tag": "BRISK"
+        }
+    }, 
+    {
+        "pk": 548, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "74", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 549, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "75", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 550, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "75", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 551, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "75", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 552, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "75", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 553, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "75", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 554, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "75", 
+            "tag": "MALTY"
+        }
+    }, 
+    {
+        "pk": 555, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "75", 
+            "tag": "AWAKENING"
+        }
+    }, 
+    {
+        "pk": 556, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "75", 
+            "tag": "BOLD"
+        }
+    }, 
+    {
+        "pk": 557, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "76", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 558, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "76", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 559, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "76", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 560, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "76", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 561, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "76", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 562, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "76", 
+            "tag": "MALTY"
+        }
+    }, 
+    {
+        "pk": 563, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "76", 
+            "tag": "STRONG"
+        }
+    }, 
+    {
+        "pk": 564, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "76", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 565, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "77", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 566, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "77", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 567, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "77", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 568, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "77", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 569, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "77", 
+            "tag": "EARTHY"
+        }
+    }, 
+    {
+        "pk": 570, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "77", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 571, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "77", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 572, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "77", 
+            "tag": "MALTY"
+        }
+    }, 
+    {
+        "pk": 573, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "78", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 574, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "78", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 575, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "78", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 576, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "78", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 577, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "78", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 578, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "78", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 579, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "78", 
+            "tag": "MALTY"
+        }
+    }, 
+    {
+        "pk": 580, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "78", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 581, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "79", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 582, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "79", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 583, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "79", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 584, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "79", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 585, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "79", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 586, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "79", 
+            "tag": "AROMATIC"
+        }
+    }, 
+    {
+        "pk": 587, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "79", 
+            "tag": "HIGH MOUNTAIN"
+        }
+    }, 
+    {
+        "pk": 588, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "79", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 589, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "80", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 590, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "80", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 591, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "80", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 592, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "80", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 593, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "80", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 594, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "80", 
+            "tag": "MALTY"
+        }
+    }, 
+    {
+        "pk": 595, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "81", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 596, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "81", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 597, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "81", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 598, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "81", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 599, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "81", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 600, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "81", 
+            "tag": "HIGH MOUNTAIN"
+        }
+    }, 
+    {
+        "pk": 601, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "81", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 602, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "82", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 603, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "82", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 604, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "82", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 605, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "82", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 606, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "82", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 607, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "82", 
+            "tag": "MALTY"
+        }
+    }, 
+    {
+        "pk": 608, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "82", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 609, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "83", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 610, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "83", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 611, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "83", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 612, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "83", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 613, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "83", 
+            "tag": "SMOKY"
+        }
+    }, 
+    {
+        "pk": 614, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "83", 
+            "tag": "BOLD"
+        }
+    }, 
+    {
+        "pk": 615, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "83", 
+            "tag": "HIGH MOUNTAIN"
+        }
+    }, 
+    {
+        "pk": 616, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "84", 
+            "tag": "BLACK"
+        }
+    }, 
+    {
+        "pk": 617, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "84", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 618, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "84", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 619, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "84", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 620, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "84", 
+            "tag": "SMOKY"
+        }
+    }, 
+    {
+        "pk": 621, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "84", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 622, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "84", 
+            "tag": "MALTY"
+        }
+    }, 
+    {
+        "pk": 623, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "84", 
+            "tag": "PINE"
+        }
+    }, 
+    {
+        "pk": 624, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "86", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 625, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "86", 
+            "tag": "COCOA"
+        }
+    }, 
+    {
+        "pk": 626, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "86", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 627, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "86", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 628, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "86", 
+            "tag": "BOLD"
+        }
+    }, 
+    {
+        "pk": 629, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "86", 
+            "tag": "CHOCOLATEY"
+        }
+    }, 
+    {
+        "pk": 630, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "87", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 631, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "87", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 632, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "87", 
+            "tag": "ORANGE"
+        }
+    }, 
+    {
+        "pk": 633, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "87", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 634, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "87", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 635, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "87", 
+            "tag": "LEMON"
+        }
+    }, 
+    {
+        "pk": 636, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "87", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 637, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "88", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 638, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "88", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 639, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "88", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 640, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "88", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 641, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "88", 
+            "tag": "EARTHY"
+        }
+    }, 
+    {
+        "pk": 642, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "88", 
+            "tag": "RICH"
+        }
+    }, 
+    {
+        "pk": 643, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "88", 
+            "tag": "BOLD"
+        }
+    }, 
+    {
+        "pk": 644, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "88", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 645, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "89", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 646, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "89", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 647, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "89", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 648, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "89", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 649, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "89", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 650, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "89", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 651, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "89", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 652, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "90", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 653, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "90", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 654, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "90", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 655, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "90", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 656, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "90", 
+            "tag": "EARTHY"
+        }
+    }, 
+    {
+        "pk": 657, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "90", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 658, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "90", 
+            "tag": "DARK"
+        }
+    }, 
+    {
+        "pk": 659, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "90", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 660, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "91", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 661, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "91", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 662, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "91", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 663, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "91", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 664, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "91", 
+            "tag": "BRISK"
+        }
+    }, 
+    {
+        "pk": 665, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "91", 
+            "tag": "DARK"
+        }
+    }, 
+    {
+        "pk": 666, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "91", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 667, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "92", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 668, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "92", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 669, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "92", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 670, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "92", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 671, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "92", 
+            "tag": "EARTHY"
+        }
+    }, 
+    {
+        "pk": 672, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "92", 
+            "tag": "BOLD"
+        }
+    }, 
+    {
+        "pk": 673, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "92", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 674, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "93", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 675, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "93", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 676, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "93", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 677, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "93", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 678, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "93", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 679, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "93", 
+            "tag": "EARTHY"
+        }
+    }, 
+    {
+        "pk": 680, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "93", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 681, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "94", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 682, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "94", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 683, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "94", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 684, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "94", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 685, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "94", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 686, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "94", 
+            "tag": "EARTHY"
+        }
+    }, 
+    {
+        "pk": 687, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "94", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 688, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "95", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 689, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "95", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 690, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "95", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 691, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "95", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 692, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "95", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 693, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "95", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 694, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "95", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 695, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "96", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 696, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "96", 
+            "tag": "PU-ERH"
+        }
+    }, 
+    {
+        "pk": 697, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "96", 
+            "tag": "MEDIUM CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 698, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "96", 
+            "tag": "AROMATIC"
+        }
+    }, 
+    {
+        "pk": 699, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "96", 
+            "tag": "GRASSY"
+        }
+    }, 
+    {
+        "pk": 700, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "96", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 701, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "96", 
+            "tag": "ULTRA PREMIUM"
+        }
+    }, 
+    {
+        "pk": 702, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "97", 
+            "tag": "COCONUT"
+        }
+    }, 
+    {
+        "pk": 703, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "97", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 704, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "97", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 705, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "97", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 706, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "97", 
+            "tag": "COCOA"
+        }
+    }, 
+    {
+        "pk": 707, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "97", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 708, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "97", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 709, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "97", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 710, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "98", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 711, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "98", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 712, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "98", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 713, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "98", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 714, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "98", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 715, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "98", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 716, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "98", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 717, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "98", 
+            "tag": "CHILI"
+        }
+    }, 
+    {
+        "pk": 718, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "99", 
+            "tag": "VANILLA"
+        }
+    }, 
+    {
+        "pk": 719, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "99", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 720, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "99", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 721, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "99", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 722, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "99", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 723, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "99", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 724, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "99", 
+            "tag": "CHOCOLATEY"
+        }
+    }, 
+    {
+        "pk": 725, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "99", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 726, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "101", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 727, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "101", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 728, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "101", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 729, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "101", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 730, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "101", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 731, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "101", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 732, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "101", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 733, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "101", 
+            "tag": "CARDAMOM"
+        }
+    }, 
+    {
+        "pk": 734, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "102", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 735, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "102", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 736, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "102", 
+            "tag": "LAVENDER"
+        }
+    }, 
+    {
+        "pk": 737, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "102", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 738, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "102", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 739, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "102", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 740, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "102", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 741, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "103", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 742, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "103", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 743, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "103", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 744, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "103", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 745, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "103", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 746, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "103", 
+            "tag": "MANGO"
+        }
+    }, 
+    {
+        "pk": 747, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "103", 
+            "tag": "APPLE"
+        }
+    }, 
+    {
+        "pk": 748, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "103", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 749, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "104", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 750, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "104", 
+            "tag": "ALMOND"
+        }
+    }, 
+    {
+        "pk": 751, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "104", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 752, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "104", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 753, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "104", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 754, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "104", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 755, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "104", 
+            "tag": "CHERRY"
+        }
+    }, 
+    {
+        "pk": 756, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "105", 
+            "tag": "COCONUT"
+        }
+    }, 
+    {
+        "pk": 757, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "105", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 758, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "105", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 759, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "105", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 760, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "105", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 761, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "105", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 762, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "105", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 763, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "106", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 764, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "106", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 765, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "106", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 766, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "106", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 767, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "106", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 768, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "106", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 769, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "106", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 770, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "107", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 771, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "107", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 772, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "107", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 773, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "107", 
+            "tag": "CHAMOMILE"
+        }
+    }, 
+    {
+        "pk": 774, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "107", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 775, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "107", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 776, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "107", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 777, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "107", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 778, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "108", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 779, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "108", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 780, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "108", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 781, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "108", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 782, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "108", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 783, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "108", 
+            "tag": "BERGAMONT"
+        }
+    }, 
+    {
+        "pk": 784, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "109", 
+            "tag": "PEACH"
+        }
+    }, 
+    {
+        "pk": 785, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "109", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 786, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "109", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 787, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "109", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 788, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "109", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 789, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "109", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 790, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "109", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 791, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "109", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 792, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "110", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 793, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "110", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 794, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "110", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 795, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "110", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 796, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "110", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 797, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "110", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 798, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "110", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 799, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "110", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 800, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "112", 
+            "tag": "COCONUT"
+        }
+    }, 
+    {
+        "pk": 801, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "112", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 802, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "112", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 803, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "112", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 804, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "112", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 805, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "112", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 806, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "112", 
+            "tag": "YERBA MATE"
+        }
+    }, 
+    {
+        "pk": 807, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "113", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 808, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "113", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 809, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "113", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 810, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "113", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 811, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "113", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 812, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "113", 
+            "tag": "YERBA MATE"
+        }
+    }, 
+    {
+        "pk": 813, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "114", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 814, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "114", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 815, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "114", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 816, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "114", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 817, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "114", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 818, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "114", 
+            "tag": "CLOVES"
+        }
+    }, 
+    {
+        "pk": 819, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "114", 
+            "tag": "YERBA MATE"
+        }
+    }, 
+    {
+        "pk": 820, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "115", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 821, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "115", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 822, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "115", 
+            "tag": "LEMONGRASS"
+        }
+    }, 
+    {
+        "pk": 823, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "115", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 824, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "115", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 825, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "115", 
+            "tag": "YERBA MATE"
+        }
+    }, 
+    {
+        "pk": 826, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "115", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 827, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "116", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 828, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "116", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 829, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "116", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 830, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "116", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 831, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "116", 
+            "tag": "AWAKENING"
+        }
+    }, 
+    {
+        "pk": 832, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "116", 
+            "tag": "YERBA MATE"
+        }
+    }, 
+    {
+        "pk": 833, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "116", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 834, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "117", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 835, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "117", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 836, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "117", 
+            "tag": "COCOA"
+        }
+    }, 
+    {
+        "pk": 837, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "117", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 838, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "117", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 839, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "117", 
+            "tag": "CHOCOLATEY"
+        }
+    }, 
+    {
+        "pk": 840, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "117", 
+            "tag": "YERBA MATE"
+        }
+    }, 
+    {
+        "pk": 841, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "118", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 842, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "118", 
+            "tag": "COCOA"
+        }
+    }, 
+    {
+        "pk": 843, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "118", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 844, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "118", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 845, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "118", 
+            "tag": "CHOCOLATEY"
+        }
+    }, 
+    {
+        "pk": 846, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "118", 
+            "tag": "YERBA MATE"
+        }
+    }, 
+    {
+        "pk": 847, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "118", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 848, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "120", 
+            "tag": "GREEN"
+        }
+    }, 
+    {
+        "pk": 849, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "120", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 850, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "120", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 851, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "120", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 852, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "120", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 853, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "120", 
+            "tag": "YERBA MATE"
+        }
+    }, 
+    {
+        "pk": 854, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "120", 
+            "tag": "SUPERIOR"
+        }
+    }, 
+    {
+        "pk": 855, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "121", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 856, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "121", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 857, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "121", 
+            "tag": "FULL CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 858, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "121", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 859, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "121", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 860, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "121", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 861, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "122", 
+            "tag": "ENERGIZING"
+        }
+    }, 
+    {
+        "pk": 862, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "122", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 863, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "122", 
+            "tag": "ROASTED"
+        }
+    }, 
+    {
+        "pk": 864, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "122", 
+            "tag": "AWAKENING"
+        }
+    }, 
+    {
+        "pk": 865, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "122", 
+            "tag": "BOLD"
+        }
+    }, 
+    {
+        "pk": 866, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "122", 
+            "tag": "HIGH CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 867, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "123", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 868, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "123", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 869, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "123", 
+            "tag": "CHAMOMILE"
+        }
+    }, 
+    {
+        "pk": 870, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "123", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 871, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "123", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 872, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "123", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 873, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "123", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 874, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "123", 
+            "tag": "PEPPERMINT"
+        }
+    }, 
+    {
+        "pk": 875, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "124", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 876, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "124", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 877, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "124", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 878, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "124", 
+            "tag": "CHAMOMILE"
+        }
+    }, 
+    {
+        "pk": 879, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "124", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 880, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "124", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 881, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "124", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 882, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "125", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 883, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "125", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 884, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "125", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 885, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "125", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 886, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "125", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 887, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "125", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 888, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "125", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 889, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "126", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 890, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "126", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 891, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "126", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 892, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "126", 
+            "tag": "TULSI"
+        }
+    }, 
+    {
+        "pk": 893, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "126", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 894, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "126", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 895, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "126", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 896, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "127", 
+            "tag": "COCONUT"
+        }
+    }, 
+    {
+        "pk": 897, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "127", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 898, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "127", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 899, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "127", 
+            "tag": "TULSI"
+        }
+    }, 
+    {
+        "pk": 900, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "127", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 901, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "127", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 902, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "127", 
+            "tag": "ROSE"
+        }
+    }, 
+    {
+        "pk": 903, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "127", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 904, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "128", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 905, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "128", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 906, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "128", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 907, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "128", 
+            "tag": "LICORICE"
+        }
+    }, 
+    {
+        "pk": 908, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "128", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 909, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "128", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 910, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "128", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 911, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "129", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 912, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "129", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 913, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "129", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 914, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "129", 
+            "tag": "ROOIBOS"
+        }
+    }, 
+    {
+        "pk": 915, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "129", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 916, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "129", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 917, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "129", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 918, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "130", 
+            "tag": "BERRY"
+        }
+    }, 
+    {
+        "pk": 919, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "130", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 920, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "130", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 921, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "130", 
+            "tag": "HIBISCUS"
+        }
+    }, 
+    {
+        "pk": 922, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "130", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 923, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "130", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 924, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "130", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 925, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "130", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 926, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "131", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 927, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "131", 
+            "tag": "HIBISCUS"
+        }
+    }, 
+    {
+        "pk": 928, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "131", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 929, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "131", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 930, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "131", 
+            "tag": "APPLE"
+        }
+    }, 
+    {
+        "pk": 931, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "131", 
+            "tag": "CRANBERRY"
+        }
+    }, 
+    {
+        "pk": 932, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "131", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 933, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "132", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 934, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "132", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 935, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "132", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 936, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "132", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 937, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "132", 
+            "tag": "HIBISCUS"
+        }
+    }, 
+    {
+        "pk": 938, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "132", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 939, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "132", 
+            "tag": "ROSE"
+        }
+    }, 
+    {
+        "pk": 940, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "132", 
+            "tag": "PEPPERMINT"
+        }
+    }, 
+    {
+        "pk": 941, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "134", 
+            "tag": "BERRY"
+        }
+    }, 
+    {
+        "pk": 942, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "134", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 943, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "134", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 944, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "134", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 945, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "134", 
+            "tag": "HIBISCUS"
+        }
+    }, 
+    {
+        "pk": 946, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "134", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 947, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "134", 
+            "tag": "SMOOTH"
+        }
+    }, 
+    {
+        "pk": 948, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "134", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 949, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "135", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 950, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "135", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 951, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "135", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 952, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "135", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 953, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "135", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 954, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "135", 
+            "tag": "HIBISCUS"
+        }
+    }, 
+    {
+        "pk": 955, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "135", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 956, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "136", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 957, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "136", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 958, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "136", 
+            "tag": "TULSI"
+        }
+    }, 
+    {
+        "pk": 959, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "136", 
+            "tag": "HIBISCUS"
+        }
+    }, 
+    {
+        "pk": 960, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "136", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 961, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "136", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 962, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "136", 
+            "tag": "ROSE"
+        }
+    }, 
+    {
+        "pk": 963, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "137", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 964, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "137", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 965, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "137", 
+            "tag": "CHAMOMILE"
+        }
+    }, 
+    {
+        "pk": 966, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "137", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 967, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "137", 
+            "tag": "HIBISCUS"
+        }
+    }, 
+    {
+        "pk": 968, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "137", 
+            "tag": "LICORICE"
+        }
+    }, 
+    {
+        "pk": 969, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "137", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 970, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "138", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 971, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "138", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 972, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "138", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 973, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "138", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 974, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "138", 
+            "tag": "LEMONGRASS"
+        }
+    }, 
+    {
+        "pk": 975, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "138", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 976, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "139", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 977, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "139", 
+            "tag": "MINT"
+        }
+    }, 
+    {
+        "pk": 978, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "139", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 979, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "139", 
+            "tag": "CHAMOMILE"
+        }
+    }, 
+    {
+        "pk": 980, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "139", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 981, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "139", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 982, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "139", 
+            "tag": "ROSE"
+        }
+    }, 
+    {
+        "pk": 983, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "140", 
+            "tag": "BERRY"
+        }
+    }, 
+    {
+        "pk": 984, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "140", 
+            "tag": "FRUITY"
+        }
+    }, 
+    {
+        "pk": 985, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "140", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 986, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "140", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 987, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "140", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 988, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "140", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 989, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "141", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 990, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "141", 
+            "tag": "CINNAMON"
+        }
+    }, 
+    {
+        "pk": 991, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "141", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 992, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "141", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 993, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "141", 
+            "tag": "LICORICE"
+        }
+    }, 
+    {
+        "pk": 994, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "141", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 995, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "141", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 996, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "142", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 997, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "142", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 998, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "142", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 999, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "142", 
+            "tag": "KAVA KAVA"
+        }
+    }, 
+    {
+        "pk": 1000, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "142", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 1001, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "142", 
+            "tag": "WELLNESS"
+        }
+    }, 
+    {
+        "pk": 1002, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "142", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 1003, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "142", 
+            "tag": "STIMULATING"
+        }
+    }, 
+    {
+        "pk": 1004, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "143", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 1005, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "143", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 1006, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "143", 
+            "tag": "CHAMOMILE"
+        }
+    }, 
+    {
+        "pk": 1007, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "143", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 1008, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "143", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 1009, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "143", 
+            "tag": "FRAGRANT"
+        }
+    }, 
+    {
+        "pk": 1010, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "143", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 1011, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "144", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 1012, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "144", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 1013, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "144", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 1014, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "144", 
+            "tag": "LAVENDER"
+        }
+    }, 
+    {
+        "pk": 1015, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "144", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 1016, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "144", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 1017, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "144", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 1018, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "145", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 1019, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "145", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 1020, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "145", 
+            "tag": "REFRESHING"
+        }
+    }, 
+    {
+        "pk": 1021, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "145", 
+            "tag": "CAFFEINE FREE"
+        }
+    }, 
+    {
+        "pk": 1022, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "145", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 1023, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "145", 
+            "tag": "BOLD"
+        }
+    }, 
+    {
+        "pk": 1024, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "145", 
+            "tag": "STRONG"
+        }
+    }, 
+    {
+        "pk": 1025, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "145", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 1026, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "145", 
+            "tag": "ICED"
+        }
+    }, 
+    {
+        "pk": 1027, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "146", 
+            "tag": "CITRUS"
+        }
+    }, 
+    {
+        "pk": 1028, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "146", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 1029, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "146", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 1030, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "146", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 1031, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "146", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 1032, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "146", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 1033, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "146", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 1034, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "147", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 1035, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "147", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 1036, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "147", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 1037, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "147", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 1038, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "147", 
+            "tag": "LICORICE"
+        }
+    }, 
+    {
+        "pk": 1039, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "147", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 1040, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "147", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 1041, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "148", 
+            "tag": "GINGER"
+        }
+    }, 
+    {
+        "pk": 1042, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "148", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 1043, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "148", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 1044, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "148", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 1045, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "148", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 1046, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "148", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 1047, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "148", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 1048, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "148", 
+            "tag": "DIGESTIVE"
+        }
+    }, 
+    {
+        "pk": 1049, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "149", 
+            "tag": "PURE"
+        }
+    }, 
+    {
+        "pk": 1050, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "149", 
+            "tag": "CALMING"
+        }
+    }, 
+    {
+        "pk": 1051, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "149", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 1052, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "149", 
+            "tag": "FLORAL"
+        }
+    }, 
+    {
+        "pk": 1053, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "149", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 1054, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "149", 
+            "tag": "HIBISCUS"
+        }
+    }, 
+    {
+        "pk": 1055, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "149", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 1056, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "149", 
+            "tag": "SWEET"
+        }
+    }, 
+    {
+        "pk": 1057, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "150", 
+            "tag": "HERBAL"
+        }
+    }, 
+    {
+        "pk": 1058, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "150", 
+            "tag": "SOOTHING"
+        }
+    }, 
+    {
+        "pk": 1059, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "150", 
+            "tag": "TULSI"
+        }
+    }, 
+    {
+        "pk": 1060, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "150", 
+            "tag": "ANTIOXIDANT"
+        }
+    }, 
+    {
+        "pk": 1061, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "150", 
+            "tag": "NO CAFFEINE"
+        }
+    }, 
+    {
+        "pk": 1062, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "150", 
+            "tag": "UPLIFTING"
+        }
+    }, 
+    {
+        "pk": 1063, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "150", 
+            "tag": "SPICY"
+        }
+    }, 
+    {
+        "pk": 1064, 
+        "model": "tea.teatag", 
+        "fields": {
+            "tea": "150", 
+            "tag": "SWEET"
+        }
+    }
+]

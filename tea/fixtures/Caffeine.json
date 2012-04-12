@@ -1,0 +1,44 @@
+[
+    {
+        "pk": "MED", 
+        "model": "tea.caffeine", 
+        "fields": {
+            "name": "med"
+        }
+    }, 
+    {
+        "pk": "NONE", 
+        "model": "tea.caffeine", 
+        "fields": {
+            "name": "none"
+        }
+    }, 
+    {
+        "pk": "MEDIUM", 
+        "model": "tea.caffeine", 
+        "fields": {
+            "name": "medium"
+        }
+    }, 
+    {
+        "pk": "HIGH", 
+        "model": "tea.caffeine", 
+        "fields": {
+            "name": "high"
+        }
+    }, 
+    {
+        "pk": "FULL", 
+        "model": "tea.caffeine", 
+        "fields": {
+            "name": "full"
+        }
+    }, 
+    {
+        "pk": "LOW", 
+        "model": "tea.caffeine", 
+        "fields": {
+            "name": "low"
+        }
+    }
+]

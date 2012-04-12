@@ -1,0 +1,688 @@
+[
+    {
+        "pk": "CURRANTS", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "currants"
+        }
+    }, 
+    {
+        "pk": "GINSENG", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "ginseng"
+        }
+    }, 
+    {
+        "pk": "PINE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "pine"
+        }
+    }, 
+    {
+        "pk": "ROASTED", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "roasted"
+        }
+    }, 
+    {
+        "pk": "HIGH CAFFEINE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "high caffeine"
+        }
+    }, 
+    {
+        "pk": "SUPERIOR", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "superior"
+        }
+    }, 
+    {
+        "pk": "LOW CAFFEINE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "low caffeine"
+        }
+    }, 
+    {
+        "pk": "CHAMOMILE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "chamomile"
+        }
+    }, 
+    {
+        "pk": "CHERRY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "cherry"
+        }
+    }, 
+    {
+        "pk": "BLACK", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "black"
+        }
+    }, 
+    {
+        "pk": "RICH", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "rich"
+        }
+    }, 
+    {
+        "pk": "MELON", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "melon"
+        }
+    }, 
+    {
+        "pk": "COFFEE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "coffee"
+        }
+    }, 
+    {
+        "pk": "PREMIUM", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "premium"
+        }
+    }, 
+    {
+        "pk": "PURE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "pure"
+        }
+    }, 
+    {
+        "pk": "CITRUS", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "citrus"
+        }
+    }, 
+    {
+        "pk": "TULSI", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "tulsi"
+        }
+    }, 
+    {
+        "pk": "DARK", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "dark"
+        }
+    }, 
+    {
+        "pk": "ULTRA PREMIUM", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "ultra premium"
+        }
+    }, 
+    {
+        "pk": "WELLNESS", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "wellness"
+        }
+    }, 
+    {
+        "pk": "ROOIBOS", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "rooibos"
+        }
+    }, 
+    {
+        "pk": "GOJI", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "goji"
+        }
+    }, 
+    {
+        "pk": "ALMOND", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "almond"
+        }
+    }, 
+    {
+        "pk": "LAVENDER", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "lavender"
+        }
+    }, 
+    {
+        "pk": "BERGAMOT", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "bergamot"
+        }
+    }, 
+    {
+        "pk": "LEMONGRASS", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "lemongrass"
+        }
+    }, 
+    {
+        "pk": "HIBISCUS", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "hibiscus"
+        }
+    }, 
+    {
+        "pk": "NUTTY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "nutty"
+        }
+    }, 
+    {
+        "pk": "HERBAL", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "herbal"
+        }
+    }, 
+    {
+        "pk": "CAFFEINE FREE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "caffeine free"
+        }
+    }, 
+    {
+        "pk": "CLOVES", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "cloves"
+        }
+    }, 
+    {
+        "pk": "BOLD", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "bold"
+        }
+    }, 
+    {
+        "pk": "CHOCOLATEY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "chocolatey"
+        }
+    }, 
+    {
+        "pk": "JASMINE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "jasmine"
+        }
+    }, 
+    {
+        "pk": "STRONG", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "strong"
+        }
+    }, 
+    {
+        "pk": "UPLIFTING", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "uplifting"
+        }
+    }, 
+    {
+        "pk": "PLUM", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "plum"
+        }
+    }, 
+    {
+        "pk": "FRUITY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "fruity"
+        }
+    }, 
+    {
+        "pk": "CINNAMON", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "cinnamon"
+        }
+    }, 
+    {
+        "pk": "ROSE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "rose"
+        }
+    }, 
+    {
+        "pk": "CHOCLATEY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "choclatey"
+        }
+    }, 
+    {
+        "pk": "YERBA MATE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "yerba mate"
+        }
+    }, 
+    {
+        "pk": "APPLE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "apple"
+        }
+    }, 
+    {
+        "pk": "FRAGRANT", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "fragrant"
+        }
+    }, 
+    {
+        "pk": "SWEET", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "sweet"
+        }
+    }, 
+    {
+        "pk": "ANTIOXIDANT", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "antioxidant"
+        }
+    }, 
+    {
+        "pk": "SOOTHING", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "soothing"
+        }
+    }, 
+    {
+        "pk": "COCOA", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "cocoa"
+        }
+    }, 
+    {
+        "pk": "OOLONG", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "oolong"
+        }
+    }, 
+    {
+        "pk": "OSMANTHUS", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "osmanthus"
+        }
+    }, 
+    {
+        "pk": "CALMING", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "calming"
+        }
+    }, 
+    {
+        "pk": "FULL CAFFEINE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "full caffeine"
+        }
+    }, 
+    {
+        "pk": "ICED", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "iced"
+        }
+    }, 
+    {
+        "pk": "BERGAMONT", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "bergamont"
+        }
+    }, 
+    {
+        "pk": "EARTHY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "earthy"
+        }
+    }, 
+    {
+        "pk": "LICORICE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "licorice"
+        }
+    }, 
+    {
+        "pk": "BASIL", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "basil"
+        }
+    }, 
+    {
+        "pk": "WHITE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "white"
+        }
+    }, 
+    {
+        "pk": "BLUEBERRY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "blueberry"
+        }
+    }, 
+    {
+        "pk": "SPICY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "spicy"
+        }
+    }, 
+    {
+        "pk": "NO CAFFEINE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "no caffeine"
+        }
+    }, 
+    {
+        "pk": "RELAXING", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "relaxing"
+        }
+    }, 
+    {
+        "pk": "BRISK", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "brisk"
+        }
+    }, 
+    {
+        "pk": "ORANGE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "orange"
+        }
+    }, 
+    {
+        "pk": "CHILI", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "chili"
+        }
+    }, 
+    {
+        "pk": "MEDIUM CAFFEINE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "medium caffeine"
+        }
+    }, 
+    {
+        "pk": "VANILLA", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "vanilla"
+        }
+    }, 
+    {
+        "pk": "SMOOTH", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "smooth"
+        }
+    }, 
+    {
+        "pk": "PEPPERMINT", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "peppermint"
+        }
+    }, 
+    {
+        "pk": "DETOXIFYING", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "detoxifying"
+        }
+    }, 
+    {
+        "pk": "SMOKY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "smoky"
+        }
+    }, 
+    {
+        "pk": "STIMULATING", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "stimulating"
+        }
+    }, 
+    {
+        "pk": "COCONUT", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "coconut"
+        }
+    }, 
+    {
+        "pk": "GRASSY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "grassy"
+        }
+    }, 
+    {
+        "pk": "GINGER", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "ginger"
+        }
+    }, 
+    {
+        "pk": "AWAKENING", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "awakening"
+        }
+    }, 
+    {
+        "pk": "MINT", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "mint"
+        }
+    }, 
+    {
+        "pk": "LEMON", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "lemon"
+        }
+    }, 
+    {
+        "pk": "PEACH", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "peach"
+        }
+    }, 
+    {
+        "pk": "AROMATIC", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "aromatic"
+        }
+    }, 
+    {
+        "pk": "MALTY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "malty"
+        }
+    }, 
+    {
+        "pk": "ENERGIZING", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "energizing"
+        }
+    }, 
+    {
+        "pk": "BERRY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "berry"
+        }
+    }, 
+    {
+        "pk": "PAPAYA", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "papaya"
+        }
+    }, 
+    {
+        "pk": "KAVA KAVA", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "kava kava"
+        }
+    }, 
+    {
+        "pk": "CARDAMOM", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "cardamom"
+        }
+    }, 
+    {
+        "pk": "POMEGRANATE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "pomegranate"
+        }
+    }, 
+    {
+        "pk": "CRANBERRY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "cranberry"
+        }
+    }, 
+    {
+        "pk": "PEAR", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "pear"
+        }
+    }, 
+    {
+        "pk": "TOASTY", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "toasty"
+        }
+    }, 
+    {
+        "pk": "DIGESTIVE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "digestive"
+        }
+    }, 
+    {
+        "pk": "FLORAL", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "floral"
+        }
+    }, 
+    {
+        "pk": "REFRESHING", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "refreshing"
+        }
+    }, 
+    {
+        "pk": "HIGH MOUNTAIN", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "high mountain"
+        }
+    }, 
+    {
+        "pk": "MANGO", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "mango"
+        }
+    }, 
+    {
+        "pk": "GREEN", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "green"
+        }
+    }, 
+    {
+        "pk": "PINEAPPLE", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "pineapple"
+        }
+    }, 
+    {
+        "pk": "PU-ERH", 
+        "model": "tea.tag", 
+        "fields": {
+            "name": "pu-erh"
+        }
+    }
+]
