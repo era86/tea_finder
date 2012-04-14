@@ -43,12 +43,10 @@ def get_teas(request):
             } for tea in teaObjs]
 
     teas = []
-    print tags
     if tags:
         for tea in teaList:
             teaTags = [tt.tag.id for tt in \
                                         TeaTag.objects.filter(tea=tea['id'])]
-            print teaTags
             found = True
             for tag in tags:
                 if tag not in teaTags:
